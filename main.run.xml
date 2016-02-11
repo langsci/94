@@ -49,6 +49,7 @@
       <file>main2-blx.aux</file>
       <file>main3-blx.aux</file>
       <file>main4-blx.aux</file>
+<<<<<<< HEAD
       <file>main5-blx.aux</file>
       <file>main6-blx.aux</file>
       <file>main7-blx.aux</file>
@@ -63,6 +64,8 @@
       <file>main16-blx.aux</file>
       <file>main17-blx.aux</file>
       <file>main18-blx.aux</file>
+=======
+>>>>>>> 374260aa11eac38304f850062805c954c530b1e7
       <file>main-blx.bib</file>
     </provides>
     <requires type="dynamic">
@@ -71,6 +74,7 @@
       <file>main2-blx.bbl</file>
       <file>main3-blx.bbl</file>
       <file>main4-blx.bbl</file>
+<<<<<<< HEAD
       <file>main5-blx.bbl</file>
       <file>main6-blx.bbl</file>
       <file>main7-blx.bbl</file>
@@ -85,15 +89,24 @@
       <file>main16-blx.bbl</file>
       <file>main17-blx.bbl</file>
       <file>main18-blx.bbl</file>
+=======
+>>>>>>> 374260aa11eac38304f850062805c954c530b1e7
     </requires>
     <requires type="static">
       <file>blx-compat.def</file>
       <file>biblatex.def</file>
       <file>blx-natbib.def</file>
+<<<<<<< HEAD
       <file>langsci/bst/biblatex-sp-unified.bbx</file>
       <file>authoryear.bbx</file>
       <file>standard.bbx</file>
       <file>langsci/bst/sp-authoryear-comp.cbx</file>
+=======
+      <file>LSP/lsp-bst/biblatex-sp-unified.bbx</file>
+      <file>authoryear.bbx</file>
+      <file>standard.bbx</file>
+      <file>LSP/lsp-bst/sp-authoryear-comp.cbx</file>
+>>>>>>> 374260aa11eac38304f850062805c954c530b1e7
       <file>biblatex.cfg</file>
       <file>english.lbx</file>
     </requires>
@@ -119,14 +132,22 @@
       <file>main-blx.bib</file>
     </requires>
     <requires type="editable">
+<<<<<<< HEAD
       <file>processed.bib</file>
+=======
+      <file>localbibliography.bib</file>
+>>>>>>> 374260aa11eac38304f850062805c954c530b1e7
       <file>collection_tmp.bib</file>
     </requires>
     <requires type="static">
       <file>biblatex.bst</file>
     </requires>
   </external>
+<<<<<<< HEAD
   <external package="biblatex" priority="5" active="1">
+=======
+  <external package="biblatex" priority="5" active="0">
+>>>>>>> 374260aa11eac38304f850062805c954c530b1e7
     <generic>bibtex</generic>
     <cmdline>
       <binary>bibtex</binary>
@@ -147,7 +168,11 @@
       <file>main-blx.bib</file>
     </requires>
     <requires type="editable">
+<<<<<<< HEAD
       <file>processed.bib</file>
+=======
+      <file>localbibliography.bib</file>
+>>>>>>> 374260aa11eac38304f850062805c954c530b1e7
       <file>collection_tmp.bib</file>
     </requires>
     <requires type="static">
@@ -175,14 +200,22 @@
       <file>main-blx.bib</file>
     </requires>
     <requires type="editable">
+<<<<<<< HEAD
       <file>processed.bib</file>
+=======
+      <file>localbibliography.bib</file>
+>>>>>>> 374260aa11eac38304f850062805c954c530b1e7
       <file>collection_tmp.bib</file>
     </requires>
     <requires type="static">
       <file>biblatex.bst</file>
     </requires>
   </external>
+<<<<<<< HEAD
   <external package="biblatex" priority="5" active="0">
+=======
+  <external package="biblatex" priority="5" active="1">
+>>>>>>> 374260aa11eac38304f850062805c954c530b1e7
     <generic>bibtex</generic>
     <cmdline>
       <binary>bibtex</binary>
@@ -203,7 +236,11 @@
       <file>main-blx.bib</file>
     </requires>
     <requires type="editable">
+<<<<<<< HEAD
       <file>processed.bib</file>
+=======
+      <file>localbibliography.bib</file>
+>>>>>>> 374260aa11eac38304f850062805c954c530b1e7
       <file>collection_tmp.bib</file>
     </requires>
     <requires type="static">
@@ -231,6 +268,7 @@
       <file>main-blx.bib</file>
     </requires>
     <requires type="editable">
+<<<<<<< HEAD
       <file>processed.bib</file>
       <file>collection_tmp.bib</file>
     </requires>
@@ -624,6 +662,9 @@
     </requires>
     <requires type="editable">
       <file>processed.bib</file>
+=======
+      <file>localbibliography.bib</file>
+>>>>>>> 374260aa11eac38304f850062805c954c530b1e7
       <file>collection_tmp.bib</file>
     </requires>
     <requires type="static">
