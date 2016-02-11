@@ -41,7 +41,7 @@
   >
 ]>
 <requests version="1.0">
-  <internal package="biblatex" priority="9" active="0">
+  <internal package="biblatex" priority="9" active="1">
     <generic>latex</generic>
     <provides type="dynamic">
       <file>main.aux</file>
@@ -49,6 +49,20 @@
       <file>main2-blx.aux</file>
       <file>main3-blx.aux</file>
       <file>main4-blx.aux</file>
+      <file>main5-blx.aux</file>
+      <file>main6-blx.aux</file>
+      <file>main7-blx.aux</file>
+      <file>main8-blx.aux</file>
+      <file>main9-blx.aux</file>
+      <file>main10-blx.aux</file>
+      <file>main11-blx.aux</file>
+      <file>main12-blx.aux</file>
+      <file>main13-blx.aux</file>
+      <file>main14-blx.aux</file>
+      <file>main15-blx.aux</file>
+      <file>main16-blx.aux</file>
+      <file>main17-blx.aux</file>
+      <file>main18-blx.aux</file>
       <file>main-blx.bib</file>
     </provides>
     <requires type="dynamic">
@@ -57,6 +71,20 @@
       <file>main2-blx.bbl</file>
       <file>main3-blx.bbl</file>
       <file>main4-blx.bbl</file>
+      <file>main5-blx.bbl</file>
+      <file>main6-blx.bbl</file>
+      <file>main7-blx.bbl</file>
+      <file>main8-blx.bbl</file>
+      <file>main9-blx.bbl</file>
+      <file>main10-blx.bbl</file>
+      <file>main11-blx.bbl</file>
+      <file>main12-blx.bbl</file>
+      <file>main13-blx.bbl</file>
+      <file>main14-blx.bbl</file>
+      <file>main15-blx.bbl</file>
+      <file>main16-blx.bbl</file>
+      <file>main17-blx.bbl</file>
+      <file>main18-blx.bbl</file>
     </requires>
     <requires type="static">
       <file>blx-compat.def</file>
@@ -91,14 +119,14 @@
       <file>main-blx.bib</file>
     </requires>
     <requires type="editable">
-      <file>localbibliography.bib</file>
+      <file>processed.bib</file>
       <file>collection_tmp.bib</file>
     </requires>
     <requires type="static">
       <file>biblatex.bst</file>
     </requires>
   </external>
-  <external package="biblatex" priority="5" active="0">
+  <external package="biblatex" priority="5" active="1">
     <generic>bibtex</generic>
     <cmdline>
       <binary>bibtex</binary>
@@ -119,7 +147,7 @@
       <file>main-blx.bib</file>
     </requires>
     <requires type="editable">
-      <file>localbibliography.bib</file>
+      <file>processed.bib</file>
       <file>collection_tmp.bib</file>
     </requires>
     <requires type="static">
@@ -147,7 +175,7 @@
       <file>main-blx.bib</file>
     </requires>
     <requires type="editable">
-      <file>localbibliography.bib</file>
+      <file>processed.bib</file>
       <file>collection_tmp.bib</file>
     </requires>
     <requires type="static">
@@ -175,14 +203,14 @@
       <file>main-blx.bib</file>
     </requires>
     <requires type="editable">
-      <file>localbibliography.bib</file>
+      <file>processed.bib</file>
       <file>collection_tmp.bib</file>
     </requires>
     <requires type="static">
       <file>biblatex.bst</file>
     </requires>
   </external>
-  <external package="biblatex" priority="5" active="0">
+  <external package="biblatex" priority="5" active="1">
     <generic>bibtex</generic>
     <cmdline>
       <binary>bibtex</binary>
@@ -203,7 +231,399 @@
       <file>main-blx.bib</file>
     </requires>
     <requires type="editable">
-      <file>localbibliography.bib</file>
+      <file>processed.bib</file>
+      <file>collection_tmp.bib</file>
+    </requires>
+    <requires type="static">
+      <file>biblatex.bst</file>
+    </requires>
+  </external>
+  <external package="biblatex" priority="5" active="1">
+    <generic>bibtex</generic>
+    <cmdline>
+      <binary>bibtex</binary>
+      <option>-min-crossrefs 2</option>
+      <infile>main5-blx</infile>
+    </cmdline>
+    <input>
+      <file>main5-blx.aux</file>
+    </input>
+    <output>
+      <file>main5-blx.bbl</file>
+    </output>
+    <provides type="dynamic">
+      <file>main5-blx.bbl</file>
+    </provides>
+    <requires type="dynamic">
+      <file>main5-blx.aux</file>
+      <file>main-blx.bib</file>
+    </requires>
+    <requires type="editable">
+      <file>processed.bib</file>
+      <file>collection_tmp.bib</file>
+    </requires>
+    <requires type="static">
+      <file>biblatex.bst</file>
+    </requires>
+  </external>
+  <external package="biblatex" priority="5" active="1">
+    <generic>bibtex</generic>
+    <cmdline>
+      <binary>bibtex</binary>
+      <option>-min-crossrefs 2</option>
+      <infile>main6-blx</infile>
+    </cmdline>
+    <input>
+      <file>main6-blx.aux</file>
+    </input>
+    <output>
+      <file>main6-blx.bbl</file>
+    </output>
+    <provides type="dynamic">
+      <file>main6-blx.bbl</file>
+    </provides>
+    <requires type="dynamic">
+      <file>main6-blx.aux</file>
+      <file>main-blx.bib</file>
+    </requires>
+    <requires type="editable">
+      <file>processed.bib</file>
+      <file>collection_tmp.bib</file>
+    </requires>
+    <requires type="static">
+      <file>biblatex.bst</file>
+    </requires>
+  </external>
+  <external package="biblatex" priority="5" active="1">
+    <generic>bibtex</generic>
+    <cmdline>
+      <binary>bibtex</binary>
+      <option>-min-crossrefs 2</option>
+      <infile>main7-blx</infile>
+    </cmdline>
+    <input>
+      <file>main7-blx.aux</file>
+    </input>
+    <output>
+      <file>main7-blx.bbl</file>
+    </output>
+    <provides type="dynamic">
+      <file>main7-blx.bbl</file>
+    </provides>
+    <requires type="dynamic">
+      <file>main7-blx.aux</file>
+      <file>main-blx.bib</file>
+    </requires>
+    <requires type="editable">
+      <file>processed.bib</file>
+      <file>collection_tmp.bib</file>
+    </requires>
+    <requires type="static">
+      <file>biblatex.bst</file>
+    </requires>
+  </external>
+  <external package="biblatex" priority="5" active="1">
+    <generic>bibtex</generic>
+    <cmdline>
+      <binary>bibtex</binary>
+      <option>-min-crossrefs 2</option>
+      <infile>main8-blx</infile>
+    </cmdline>
+    <input>
+      <file>main8-blx.aux</file>
+    </input>
+    <output>
+      <file>main8-blx.bbl</file>
+    </output>
+    <provides type="dynamic">
+      <file>main8-blx.bbl</file>
+    </provides>
+    <requires type="dynamic">
+      <file>main8-blx.aux</file>
+      <file>main-blx.bib</file>
+    </requires>
+    <requires type="editable">
+      <file>processed.bib</file>
+      <file>collection_tmp.bib</file>
+    </requires>
+    <requires type="static">
+      <file>biblatex.bst</file>
+    </requires>
+  </external>
+  <external package="biblatex" priority="5" active="0">
+    <generic>bibtex</generic>
+    <cmdline>
+      <binary>bibtex</binary>
+      <option>-min-crossrefs 2</option>
+      <infile>main9-blx</infile>
+    </cmdline>
+    <input>
+      <file>main9-blx.aux</file>
+    </input>
+    <output>
+      <file>main9-blx.bbl</file>
+    </output>
+    <provides type="dynamic">
+      <file>main9-blx.bbl</file>
+    </provides>
+    <requires type="dynamic">
+      <file>main9-blx.aux</file>
+      <file>main-blx.bib</file>
+    </requires>
+    <requires type="editable">
+      <file>processed.bib</file>
+      <file>collection_tmp.bib</file>
+    </requires>
+    <requires type="static">
+      <file>biblatex.bst</file>
+    </requires>
+  </external>
+  <external package="biblatex" priority="5" active="1">
+    <generic>bibtex</generic>
+    <cmdline>
+      <binary>bibtex</binary>
+      <option>-min-crossrefs 2</option>
+      <infile>main10-blx</infile>
+    </cmdline>
+    <input>
+      <file>main10-blx.aux</file>
+    </input>
+    <output>
+      <file>main10-blx.bbl</file>
+    </output>
+    <provides type="dynamic">
+      <file>main10-blx.bbl</file>
+    </provides>
+    <requires type="dynamic">
+      <file>main10-blx.aux</file>
+      <file>main-blx.bib</file>
+    </requires>
+    <requires type="editable">
+      <file>processed.bib</file>
+      <file>collection_tmp.bib</file>
+    </requires>
+    <requires type="static">
+      <file>biblatex.bst</file>
+    </requires>
+  </external>
+  <external package="biblatex" priority="5" active="1">
+    <generic>bibtex</generic>
+    <cmdline>
+      <binary>bibtex</binary>
+      <option>-min-crossrefs 2</option>
+      <infile>main11-blx</infile>
+    </cmdline>
+    <input>
+      <file>main11-blx.aux</file>
+    </input>
+    <output>
+      <file>main11-blx.bbl</file>
+    </output>
+    <provides type="dynamic">
+      <file>main11-blx.bbl</file>
+    </provides>
+    <requires type="dynamic">
+      <file>main11-blx.aux</file>
+      <file>main-blx.bib</file>
+    </requires>
+    <requires type="editable">
+      <file>processed.bib</file>
+      <file>collection_tmp.bib</file>
+    </requires>
+    <requires type="static">
+      <file>biblatex.bst</file>
+    </requires>
+  </external>
+  <external package="biblatex" priority="5" active="1">
+    <generic>bibtex</generic>
+    <cmdline>
+      <binary>bibtex</binary>
+      <option>-min-crossrefs 2</option>
+      <infile>main12-blx</infile>
+    </cmdline>
+    <input>
+      <file>main12-blx.aux</file>
+    </input>
+    <output>
+      <file>main12-blx.bbl</file>
+    </output>
+    <provides type="dynamic">
+      <file>main12-blx.bbl</file>
+    </provides>
+    <requires type="dynamic">
+      <file>main12-blx.aux</file>
+      <file>main-blx.bib</file>
+    </requires>
+    <requires type="editable">
+      <file>processed.bib</file>
+      <file>collection_tmp.bib</file>
+    </requires>
+    <requires type="static">
+      <file>biblatex.bst</file>
+    </requires>
+  </external>
+  <external package="biblatex" priority="5" active="1">
+    <generic>bibtex</generic>
+    <cmdline>
+      <binary>bibtex</binary>
+      <option>-min-crossrefs 2</option>
+      <infile>main13-blx</infile>
+    </cmdline>
+    <input>
+      <file>main13-blx.aux</file>
+    </input>
+    <output>
+      <file>main13-blx.bbl</file>
+    </output>
+    <provides type="dynamic">
+      <file>main13-blx.bbl</file>
+    </provides>
+    <requires type="dynamic">
+      <file>main13-blx.aux</file>
+      <file>main-blx.bib</file>
+    </requires>
+    <requires type="editable">
+      <file>processed.bib</file>
+      <file>collection_tmp.bib</file>
+    </requires>
+    <requires type="static">
+      <file>biblatex.bst</file>
+    </requires>
+  </external>
+  <external package="biblatex" priority="5" active="0">
+    <generic>bibtex</generic>
+    <cmdline>
+      <binary>bibtex</binary>
+      <option>-min-crossrefs 2</option>
+      <infile>main14-blx</infile>
+    </cmdline>
+    <input>
+      <file>main14-blx.aux</file>
+    </input>
+    <output>
+      <file>main14-blx.bbl</file>
+    </output>
+    <provides type="dynamic">
+      <file>main14-blx.bbl</file>
+    </provides>
+    <requires type="dynamic">
+      <file>main14-blx.aux</file>
+      <file>main-blx.bib</file>
+    </requires>
+    <requires type="editable">
+      <file>processed.bib</file>
+      <file>collection_tmp.bib</file>
+    </requires>
+    <requires type="static">
+      <file>biblatex.bst</file>
+    </requires>
+  </external>
+  <external package="biblatex" priority="5" active="1">
+    <generic>bibtex</generic>
+    <cmdline>
+      <binary>bibtex</binary>
+      <option>-min-crossrefs 2</option>
+      <infile>main15-blx</infile>
+    </cmdline>
+    <input>
+      <file>main15-blx.aux</file>
+    </input>
+    <output>
+      <file>main15-blx.bbl</file>
+    </output>
+    <provides type="dynamic">
+      <file>main15-blx.bbl</file>
+    </provides>
+    <requires type="dynamic">
+      <file>main15-blx.aux</file>
+      <file>main-blx.bib</file>
+    </requires>
+    <requires type="editable">
+      <file>processed.bib</file>
+      <file>collection_tmp.bib</file>
+    </requires>
+    <requires type="static">
+      <file>biblatex.bst</file>
+    </requires>
+  </external>
+  <external package="biblatex" priority="5" active="1">
+    <generic>bibtex</generic>
+    <cmdline>
+      <binary>bibtex</binary>
+      <option>-min-crossrefs 2</option>
+      <infile>main16-blx</infile>
+    </cmdline>
+    <input>
+      <file>main16-blx.aux</file>
+    </input>
+    <output>
+      <file>main16-blx.bbl</file>
+    </output>
+    <provides type="dynamic">
+      <file>main16-blx.bbl</file>
+    </provides>
+    <requires type="dynamic">
+      <file>main16-blx.aux</file>
+      <file>main-blx.bib</file>
+    </requires>
+    <requires type="editable">
+      <file>processed.bib</file>
+      <file>collection_tmp.bib</file>
+    </requires>
+    <requires type="static">
+      <file>biblatex.bst</file>
+    </requires>
+  </external>
+  <external package="biblatex" priority="5" active="0">
+    <generic>bibtex</generic>
+    <cmdline>
+      <binary>bibtex</binary>
+      <option>-min-crossrefs 2</option>
+      <infile>main17-blx</infile>
+    </cmdline>
+    <input>
+      <file>main17-blx.aux</file>
+    </input>
+    <output>
+      <file>main17-blx.bbl</file>
+    </output>
+    <provides type="dynamic">
+      <file>main17-blx.bbl</file>
+    </provides>
+    <requires type="dynamic">
+      <file>main17-blx.aux</file>
+      <file>main-blx.bib</file>
+    </requires>
+    <requires type="editable">
+      <file>processed.bib</file>
+      <file>collection_tmp.bib</file>
+    </requires>
+    <requires type="static">
+      <file>biblatex.bst</file>
+    </requires>
+  </external>
+  <external package="biblatex" priority="5" active="1">
+    <generic>bibtex</generic>
+    <cmdline>
+      <binary>bibtex</binary>
+      <option>-min-crossrefs 2</option>
+      <infile>main18-blx</infile>
+    </cmdline>
+    <input>
+      <file>main18-blx.aux</file>
+    </input>
+    <output>
+      <file>main18-blx.bbl</file>
+    </output>
+    <provides type="dynamic">
+      <file>main18-blx.bbl</file>
+    </provides>
+    <requires type="dynamic">
+      <file>main18-blx.aux</file>
+      <file>main-blx.bib</file>
+    </requires>
+    <requires type="editable">
+      <file>processed.bib</file>
       <file>collection_tmp.bib</file>
     </requires>
     <requires type="static">
