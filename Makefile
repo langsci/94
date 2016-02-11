@@ -4,11 +4,11 @@ all: book pod cover
 # specify thh main file and all the files that you are including
 SOURCE= $(wildcard *.tex) $(wildcard chapters/*.tex)\
 localbibliography.bib\
-LSP/langsci.cls
+langsci/langscibook.cls
 	 
 main.pdf: main.tex $(SOURCE)
 	xelatex -no-pdf main 
-	./bibtexvolume
+	./bibtexvolume.sh
 	xelatex  -no-pdf main
 	sed -i s/.*\\emph.*// main.adx #remove titles which biblatex puts into the name index
 	makeindex -o main.and main.adx
