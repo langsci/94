@@ -1,7 +1,3 @@
-subject terms to index
-oneperline
-
-
 phylogenetics
 templatic morphology
 comparative method
@@ -11,7 +7,8 @@ morphological change
 sprachbund
 stammbaum
 language area
-Lower Mississippi Valley (LVM)
+Lower Mississippi Valley
+LVM
 lexical borrowing
 isolates
 toponyms
@@ -20,7 +17,7 @@ positional auxiliaries
 calque
 discourse marking
 onomotopoeia
-CSD (Comparative Siouan Dictionary)
+Comparative Siouan Dictionary
 Siouan List
 Carter's Law
 simple stops
@@ -34,9 +31,6 @@ syllabary
 Ho-Chunk syllabary
 Great Lakes Algonquian syllabary
 Sac and Fox syllabary
-$ Alice Fletcher
-$ Sam Blowsnake
-$ Felix White, Sr.
 phonetic alphabet
 diacritics
 transcription
@@ -51,14 +45,6 @@ vowel length
 Kaw Nation
 Language documentation
 Field methods
-$ George Morehouse
-$ Addison Stubbs
-$ Rowe family
-$ Kekahbah family
-$ McCauley family
-$ Clark family
-$ Pepper family
-$ Choteau family
 language documentation
 language revitalization
 language revival
@@ -66,8 +52,6 @@ language nest
 language classes
 immersion
 dictionary
-translation
-culture
 pedagogical materials
 negation
 curriculum development
@@ -75,9 +59,7 @@ pedagogy
 field work
 potential enclitic
 noncontinuative enclitic
-aspect
 syntax
-grammar
 formal analysis
 dialects
 gender
@@ -86,13 +68,11 @@ verbal affixes
 noun incorporation
 conjugation
 liquid
-stress
 ablaut
 compound
 phonology
 morphophonemic processes
 distinctive feature
-voice
 sonorant
 lenition
 coda position
@@ -110,7 +90,8 @@ indefiniteness restriction
 specificity
 DP complement
 existential closure
-Verb Phrase Ellipsis (VPE)
+Verb Phrase Ellipsis 
+VPE
 ellipsis
 functional head
 licensing head
@@ -129,20 +110,24 @@ specifier
 predicate
 word order
 lexical category
-Verb Phrase (VP)
+Verb Phrase 
+VP
 configurationality
 subject
 object
 locative scope
 quantifier scope
 flat structure
-Pronominal Argument Hypothesis (PAH)
+Pronominal Argument Hypothesis 
+PAH
 wh-extraction
+WH-extraction
 binding
 coordination
 subordination
 conjunction
-Coordination Phrase (&P)
+Coordination Phrase 
+\&P
 comitative
 written language
 discourse
@@ -155,10 +140,7 @@ intonation
 postverbal arguments
 switch-topic
 topic
-focus
 Givenness Hierarchy
-link
-recoverable
 deaccenting
 determiner drop
 possessive construction
@@ -169,8 +151,5 @@ possessed
 possessive pronoun
 Animacy Hierarchy
 whole-part relation
-ownership
 kinship relation
 body part term
-
-

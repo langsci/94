@@ -1,6 +1,3 @@
-languages to index
-oneperline
-
 Algonquian
 Algonquian-Wakashan
 Algic
@@ -142,7 +139,6 @@ Sac
 Sauk
 Saponi
 Seminole
-Siouan
 Sioux
 Slavic
 Spanish
@@ -169,3 +165,4 @@ Euchee
 Yukatek
 Yuman
 Yurok
+Yuchi
