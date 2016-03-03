@@ -3,19 +3,27 @@
 import glob
 import re
 
-lgs=[l.strip() for l in open("locallanguages.txt").read().split('\n') if l.strip()!='']
-terms=[t.strip() for t in open("localsubjectterms.txt").read().split('\n') if t.strip()!=''][::-1]#reverse to avoid double indexing 
+lgs=open("locallanguages.txt").read().split('\n')
+terms=open("localsubjectterms.txt").read().split('\n')[::-1]#reverse to avoid double indexing
 print("found %i language names for autoindexing" % len(lgs))
 print("found %i subject terms for autoindexing" % len(terms))
 
 files = glob.glob('chapters/*tex')
+
+SUBJECTP = re.compile
 for f in files:
   print("indexing %s" % f)
   c = open(f).read()  
   for lg in lgs:
+    lg = lg.strip()
+    if lg == '':
+      continue
     c = re.sub('(?<!ili{)%s(?![\w}])'%lg, '\ili{%s}'%lg, c)
   for term in terms:
-    c = re.sub('(?<!isi{)%s(?![\w}])'%term, '\isi{%s}'%term, c)
+    term = term.strip() 
+    if term == '':
+       continue
+    c = re.sub('(?<!isi{)%s(?![-_\w}])'%term, '\isi{%s}'%term, c)
   nlg = len(re.findall('\\ili{',c))
   nt = len(re.findall('\\isi{',c))
   outfile = open(f.replace('chapters','indexed'), 'w')
