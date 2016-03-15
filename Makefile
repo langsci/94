@@ -45,6 +45,11 @@ createspace:  main.pdf
 	mv createspacecover.pdf createspace
 	./filluppages 1 main.pdf createspace/createspacecontent.pdf 
 
+proofreading: proofreading.pdf
+
+proofreading.pdf: main.pdf
+	pdftk main.pdf multistamp prstamp.pdf output proofreading.pdf 
+
 #housekeeping	
 clean:
 	rm -f *.bak *~ *.backup *.tmp \
