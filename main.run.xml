@@ -47,12 +47,52 @@
       <file>main.aux</file>
       <file>main1-blx.aux</file>
       <file>main2-blx.aux</file>
+      <file>main3-blx.aux</file>
+      <file>main4-blx.aux</file>
+      <file>main5-blx.aux</file>
+      <file>main6-blx.aux</file>
+      <file>main7-blx.aux</file>
+      <file>main8-blx.aux</file>
+      <file>main9-blx.aux</file>
+      <file>main10-blx.aux</file>
+      <file>main11-blx.aux</file>
+      <file>main12-blx.aux</file>
+      <file>main13-blx.aux</file>
+      <file>main14-blx.aux</file>
+      <file>main15-blx.aux</file>
+      <file>main16-blx.aux</file>
+      <file>main17-blx.aux</file>
+      <file>main18-blx.aux</file>
+      <file>main19-blx.aux</file>
+      <file>main20-blx.aux</file>
+      <file>main21-blx.aux</file>
+      <file>main22-blx.aux</file>
       <file>main-blx.bib</file>
     </provides>
     <requires type="dynamic">
       <file>main.bbl</file>
       <file>main1-blx.bbl</file>
       <file>main2-blx.bbl</file>
+      <file>main3-blx.bbl</file>
+      <file>main4-blx.bbl</file>
+      <file>main5-blx.bbl</file>
+      <file>main6-blx.bbl</file>
+      <file>main7-blx.bbl</file>
+      <file>main8-blx.bbl</file>
+      <file>main9-blx.bbl</file>
+      <file>main10-blx.bbl</file>
+      <file>main11-blx.bbl</file>
+      <file>main12-blx.bbl</file>
+      <file>main13-blx.bbl</file>
+      <file>main14-blx.bbl</file>
+      <file>main15-blx.bbl</file>
+      <file>main16-blx.bbl</file>
+      <file>main17-blx.bbl</file>
+      <file>main18-blx.bbl</file>
+      <file>main19-blx.bbl</file>
+      <file>main20-blx.bbl</file>
+      <file>main21-blx.bbl</file>
+      <file>main22-blx.bbl</file>
     </requires>
     <requires type="static">
       <file>blx-compat.def</file>
@@ -94,7 +134,7 @@
       <file>biblatex.bst</file>
     </requires>
   </external>
-  <external package="biblatex" priority="5" active="1">
+  <external package="biblatex" priority="5" active="0">
     <generic>bibtex</generic>
     <cmdline>
       <binary>bibtex</binary>
@@ -122,7 +162,7 @@
       <file>biblatex.bst</file>
     </requires>
   </external>
-  <external package="biblatex" priority="5" active="1">
+  <external package="biblatex" priority="5" active="0">
     <generic>bibtex</generic>
     <cmdline>
       <binary>bibtex</binary>
@@ -150,9 +190,7 @@
       <file>biblatex.bst</file>
     </requires>
   </external>
-<<<<<<< HEAD
-=======
-  <external package="biblatex" priority="5" active="1">
+  <external package="biblatex" priority="5" active="0">
     <generic>bibtex</generic>
     <cmdline>
       <binary>bibtex</binary>
@@ -180,7 +218,7 @@
       <file>biblatex.bst</file>
     </requires>
   </external>
-  <external package="biblatex" priority="5" active="1">
+  <external package="biblatex" priority="5" active="0">
     <generic>bibtex</generic>
     <cmdline>
       <binary>bibtex</binary>
@@ -208,7 +246,7 @@
       <file>biblatex.bst</file>
     </requires>
   </external>
-  <external package="biblatex" priority="5" active="1">
+  <external package="biblatex" priority="5" active="0">
     <generic>bibtex</generic>
     <cmdline>
       <binary>bibtex</binary>
@@ -236,7 +274,7 @@
       <file>biblatex.bst</file>
     </requires>
   </external>
-  <external package="biblatex" priority="5" active="1">
+  <external package="biblatex" priority="5" active="0">
     <generic>bibtex</generic>
     <cmdline>
       <binary>bibtex</binary>
@@ -264,7 +302,7 @@
       <file>biblatex.bst</file>
     </requires>
   </external>
-  <external package="biblatex" priority="5" active="1">
+  <external package="biblatex" priority="5" active="0">
     <generic>bibtex</generic>
     <cmdline>
       <binary>bibtex</binary>
@@ -320,7 +358,7 @@
       <file>biblatex.bst</file>
     </requires>
   </external>
-  <external package="biblatex" priority="5" active="1">
+  <external package="biblatex" priority="5" active="0">
     <generic>bibtex</generic>
     <cmdline>
       <binary>bibtex</binary>
@@ -348,7 +386,7 @@
       <file>biblatex.bst</file>
     </requires>
   </external>
-  <external package="biblatex" priority="5" active="1">
+  <external package="biblatex" priority="5" active="0">
     <generic>bibtex</generic>
     <cmdline>
       <binary>bibtex</binary>
@@ -376,7 +414,7 @@
       <file>biblatex.bst</file>
     </requires>
   </external>
-  <external package="biblatex" priority="5" active="1">
+  <external package="biblatex" priority="5" active="0">
     <generic>bibtex</generic>
     <cmdline>
       <binary>bibtex</binary>
@@ -404,7 +442,7 @@
       <file>biblatex.bst</file>
     </requires>
   </external>
-  <external package="biblatex" priority="5" active="1">
+  <external package="biblatex" priority="5" active="0">
     <generic>bibtex</generic>
     <cmdline>
       <binary>bibtex</binary>
@@ -460,7 +498,7 @@
       <file>biblatex.bst</file>
     </requires>
   </external>
-  <external package="biblatex" priority="5" active="1">
+  <external package="biblatex" priority="5" active="0">
     <generic>bibtex</generic>
     <cmdline>
       <binary>bibtex</binary>
@@ -488,7 +526,7 @@
       <file>biblatex.bst</file>
     </requires>
   </external>
-  <external package="biblatex" priority="5" active="1">
+  <external package="biblatex" priority="5" active="0">
     <generic>bibtex</generic>
     <cmdline>
       <binary>bibtex</binary>
@@ -516,7 +554,7 @@
       <file>biblatex.bst</file>
     </requires>
   </external>
-  <external package="biblatex" priority="5" active="1">
+  <external package="biblatex" priority="5" active="0">
     <generic>bibtex</generic>
     <cmdline>
       <binary>bibtex</binary>
@@ -572,7 +610,7 @@
       <file>biblatex.bst</file>
     </requires>
   </external>
-  <external package="biblatex" priority="5" active="1">
+  <external package="biblatex" priority="5" active="0">
     <generic>bibtex</generic>
     <cmdline>
       <binary>bibtex</binary>
@@ -628,7 +666,7 @@
       <file>biblatex.bst</file>
     </requires>
   </external>
-  <external package="biblatex" priority="5" active="1">
+  <external package="biblatex" priority="5" active="0">
     <generic>bibtex</generic>
     <cmdline>
       <binary>bibtex</binary>
@@ -656,7 +694,7 @@
       <file>biblatex.bst</file>
     </requires>
   </external>
-  <external package="biblatex" priority="5" active="1">
+  <external package="biblatex" priority="5" active="0">
     <generic>bibtex</generic>
     <cmdline>
       <binary>bibtex</binary>
@@ -684,7 +722,7 @@
       <file>biblatex.bst</file>
     </requires>
   </external>
-  <external package="biblatex" priority="5" active="1">
+  <external package="biblatex" priority="5" active="0">
     <generic>bibtex</generic>
     <cmdline>
       <binary>bibtex</binary>
@@ -712,5 +750,4 @@
       <file>biblatex.bst</file>
     </requires>
   </external>
->>>>>>> 3ee975259389df3b44c175398c05bedfd5c07674
 </requests>
