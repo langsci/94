@@ -3,7 +3,7 @@ SOURCE=  main.tex $(wildcard local*.tex) $(wildcard chapters/*.tex) \
 langsci/langscibook.cls
 
 # specify your main target here:
-pdf: main.bbl main.pdf  #by the time main.pdf, bib assures there is a newer aux file
+pdf: main1-blx.bbl main.pdf  #by the time main.pdf, bib assures there is a newer aux file
 
 all: pod cover
 
@@ -18,23 +18,21 @@ main.aux: $(SOURCE)
 	xelatex -no-pdf main 
 
 #create only the book
-main.bbl:  $(SOURCE) localbibliography.bib  
+main1-blx.bbl:  $(SOURCE) localbibliography.bib  
 	xelatex -no-pdf main 
-	bibtex -min-crossrefs=200 main 
+	./bibtexvolume.sh
 
 
-main.snd: main.bbl
+main.snd: main1-blx.bbl
 	sed -i s/.*\\emph.*// main.adx #remove titles which biblatex puts into the name index
-	sed -i "s/ Jr\.//" main.adx #remove Jrs  from the name index
-	sed -i "s/.*anguage.*//" main.adx #remove non-person authors  from the name index
 	sed -i 's/hyperindexformat{\\\(infn {[0-9]*\)}/\1/' main.sdx # ordering of references to footnotes
-	sed -i 's/hyperindexformat{\\\(infn {[0-9]*\)}/\1/' main.adx
+	sed -i 's/hyperindexfmake bormat{\\\(infn {[0-9]*\)}/\1/' main.adx
 	sed -i 's/hyperindexformat{\\\(infn {[0-9]*\)}/\1/' main.ldx
 # 	python3 fixindex.py
 # 	mv mainmod.adx main.adx
 	makeindex -o main.and main.adx
 	makeindex -o main.lnd main.ldx
-	makeindex -o main.snd main.sdx  
+	makeindex -o main.snd main.sdx 
 	xelatex main 
  
 
