@@ -261,6 +261,15 @@
   {\printfield[bibhyperref]{year}}
   {\multicitedelim}
   {\usebibmacro{postnote}}
+
+
+\DeclareCiteCommand{\citeextrayear}
+  {\boolfalse{citetracker}%
+   \boolfalse{pagetracker}%
+   \usebibmacro{cite:extrayear}}
+  {}
+  {\multicitedelim}
+  {\usebibmacro{postnote}}
   
 \DeclareCiteCommand{\citeyearpar}[\mkbibparens]
   {\boolfalse{citetracker}%
