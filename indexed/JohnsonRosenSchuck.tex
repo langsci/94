@@ -12,6 +12,9 @@
 
 \begin{document}
 
+\let\eachwordone=\itshape
+\renewcommand{\exfont}{\upshape}
+
 \section{Introduction}
 
  
@@ -77,6 +80,8 @@ Example \REF{ex:jrs:5} shows that the \isi{subject} and \isi{object} are not in 
  
 \subsection{Previous analyses: Williamson (1984), Van Valin (1985, 1987)}\label{sec:jrs:2.2} 
 
+\renewcommand{\exfont}{\upshape}
+
 In this section, we discuss arguments in favor of a \is{configurationality}nonconfigurational analysis of Siouan languages that have been put forth in previous works.
 	
 \citet{Williamson1984} argues that \ili{Lakota} is \is{configurationality}nonconfigurational because it lacks the \isi{subject}-\isi{object} asymmetries traditionally associated with the Empty Category Principle (ECP).  Long distance \textit{wh}-extraction of the \isi{subject} over an overt complementizer is possible in \ili{Lakota}; that is, the language does not display \textit{that}-trace effects. Long distance extraction out of \textit{wh}-islands from \isi{subject} position is also allowed in \ili{Lakota}.  Examples \REF{ex:jrs:6}--\REF{ex:jrs:8} below illustrate these facts:
@@ -104,7 +109,7 @@ In a language with \isi{subject}-\isi{object} asymmetries, long-distance \textit
 Thus in a language with a \is{verb phrase}VP node, a coreferential reading between the \textit{wh}-word and \isi{possessive pronoun} in the sentence in \REF{ex:jrs:10} below would be expected to be unavailable.
 
 \begin{exe}
-\ex\label{ex:jrs:10} \gll $\varnothing$-tha-kh\'ola-ku 	ki	tuw\'a	wąy\k{\'a}ka	he? \\
+\ex\label{ex:jrs:10} \gll $\varnothing$-tha-kh\'ola-ku 	ki	tuwá	wąy\k{á}ka	he? \\
 3-\textsc{poss}-friend-\textsc{poss} the who		\textsc{3sg}.see.\textsc{3sg} 	\textsc{q} \\
 \trans `Who\textsubscript{i} did his\textsubscript{i}  friend see?' (\citealt[379]{VanValin1987})
 \end{exe}
@@ -120,6 +125,8 @@ Van Valin additionally cites the lack of Binding Condition C (BCC) violations in
 
 First, NP arguments may appear in a variety of orders.  This is expected in an analysis under which there is a \isi{flat structure} and all NPs are adjuncts adjoined at the TP (or sentence) level. SOV \isi{word order} is the most common in \il{Ho-Chunk}Hocąk, as in \REF{ex:jrs:11}. Any variation in \isi{word order} has discourse-informational effects, as hinted at by the \ili{English} translations given in the examples below. As shown in \REF{ex:jrs:12a}, a participant displaced to the left serves a \isi{topic} or focus\is{information structure} function, whereas participants displaced to the right\is{postverbal arguments} are interpreted as anti-\isi{topic}s (e.g., ``backgrounded'' or discourse-old), as shown in \REF{ex:jrs:12b}--\REF{ex:jrs:12e}.
  
+
+\let\eachwordtwo=\itshape
 
 \ea
 \label{ex:jrs:11} 
@@ -171,7 +178,7 @@ hin\k{u}k-hi\v{z}ą 		hoc\k{i}c\k{i}-hi\v{z}ą 	hin\k{u}k-hi\v{z}ą 		wiiwagax-h
 \trans `A woman gave a boy a pencil.'
 \z
 	
-Second, NPs corresponding to arguments can be freely omitted in \il{Ho-Chunk}Hocąk. Examples of this are shown below in \REF{ex:jrs:14}, where the agent and patient/theme arguments are omitted:
+Second, NPs corresponding to arguments can be freely omitted in \il{Ho-Chunk}Hocąk. Examples of this are shown below in \REF{ex:jrs:14}, where the agent and patient/the\-me arguments are omitted:
 
 \ea\label{ex:jrs:14}
 \ea \label{ex:jrs:14a} 
@@ -188,7 +195,7 @@ woods-inside-there \textsc{3s/o}-see \\
 \z 
 \z 
 
-Sentence \REF{ex:jrs:14b} is grammatical and can (under the right \isi{discourse} context) have the equivalent meaning to \REF{ex:jrs:14a}; however, it is missing the agent and patient/theme NPs \textit{wij\k{u}kra} and \textit{\v{s}\k{u}\k{u}kra}. This is also expected under \citegen{Hale1983}, \citegen{Jelinek1984}, and \citegen{Baker1996} analyses: NPs have \isi{adjunct} status and thus are not obligatory.
+Sentence \REF{ex:jrs:14b} is grammatical and can (under the right \isi{discourse} context) have the equivalent meaning to \REF{ex:jrs:14a}; however, it is missing the agent and patient/the\-me NPs \textit{wij\k{u}kra} and \textit{\v{s}\k{u}\k{u}kra}. This is also expected under  \citegen{Hale1983}, \citegen{Jelinek1984}, and \citegen{Baker1996} analyses: NPs have \isi{adjunct} status and thus are not obligatory.
 
 \il{Ho-Chunk}Hocąk also displays discontinuous constituents. Demonstratives and quantifiers may be separated from the head noun, as shown in \REF{ex:jrs:15} with \textit{\v{z}e'e} `that': 
 
@@ -207,9 +214,12 @@ that cat-D\textsc{def} dog \textsc{3s/o}-see \\
 \z 
 \z 
 
-Discontinuous constituents are expected under \citegen{Hale1983} and \citegen{Jelinek1984} analyses of non\isi{configurationality}, due to the fact that NPs have the status of adjuncts. Hale and Jelinek propose that multiple adjuncts can be associated with the same argument in a given sentence. Thus, the demonstrative and head noun in \REF{ex:jrs:15b} are actually two separate NPs that both correspond to the \isi{object}.
+Discontinuous constituents are expected under 
+% \citegen{Hale1983} and \citegen{Jelinek1984} analyses of non\isi{configurationality}
+the analyses of nonconfigurationality by \citet{Hale1983} and \citet{Jelinek1984}, \todo{reworded for hyphenation}%
+  due to the fact that NPs have the status of adjuncts. Hale and Jelinek propose that multiple adjuncts can be associated with the same argument in a given sentence. Thus, the demonstrative and head noun in \REF{ex:jrs:15b} are actually two separate NPs that both correspond to the \isi{object}.
 
-In addition to \citegen{Hale1983} classic characteristics of non\isi{configurationality}, \il{Ho-Chunk}Hocąk displays four additional traits of nonconfigurational languages discussed by \citet{Baker1996}. First, \il{Ho-Chunk}Hocąk does not display BCC effects within \isi{clauses}.  As discussed in the previous section, this lack of BCC effects is expected when there is no asymmetry between the \isi{subject} and the \isi{object} In \REF{ex:jrs:16} below, coreference between the \isi{subject} `he' and the \isi{possessor} `Bryan' is grammatical.
+In addition to \citegen{Hale1983} classic characteristics of non\isi{configurationality}, \il{Ho-Chunk}Ho\-cąk displays four additional traits of nonconfigurational languages discussed by \citet{Baker1996}. First, \il{Ho-Chunk}Hocąk does not display BCC effects within \isi{clauses}.  As discussed in the previous section, this lack of BCC effects is expected when there is no asymmetry between the \isi{subject} and the \isi{object} In \REF{ex:jrs:16} below, coreference between the \isi{subject} `he' and the \isi{possessor} `Bryan' is grammatical.
 
 \begin{exe}
 \ex\label{ex:jrs:16}	
@@ -306,7 +316,7 @@ Recall from the previous subsection that \citet{VanValin1985,VanValin1987} uses 
 In the previous section, we presented arguments in favor of a \is{configurationality}nonconfigurational, VP-less analysis in several Siouan languages.  In this section, we present arguments in favor of a configurational analysis of Siouan languages (that is, arguments in favor of a \is{verb phrase}VP analysis).  The first piece of evidence comes from \isi{word order} restrictions. Recall that one of \citegen{Hale1983} and \citegen{Jelinek1984} typifying characteristics of nonconfigurational languages is free \isi{word order}.  Across Siouan languages, neutral \isi{word order} is SOV.  Several Siouanists have argued that other word orders have discourse-informational effects, and thus that \isi{word order} is not actually free in these languages. For example, \citet{West2003} shows that in \ili{Assiniboine} sentences with OSV \isi{word order}, the fronted \isi{object} has a preferred focus reading; otherwise, the first argument is interpreted as the \isi{subject}. This is shown below in \REF{ex:jrs:22}. 
 
 \begin{exe}
-\ex\label{ex:jrs:22}	\gll  \v{S}k\'o\v{s}obena w\~a\v{z}\'i 	hok\v{s}\'ina 	\v{z}e 		y\'uda. \\
+\ex\label{ex:jrs:22}	\gll  \v{S}k\'o\v{s}obena wã\v{z}í 	hok\v{s}ína 	\v{z}e 		y\'uda. \\
 banana 		a 			boy 	\textsc{det} 	ate \\
 \trans `The boy ate a banana (not the apple).' (preferred translation) or 
 
@@ -317,14 +327,14 @@ The same is true of \ili{Hidatsa}.  \citet{Boyle2007} shows that unmarked \isi{w
 
 \begin{exe}
 \ex\label{ex:jrs:23} 
-\glll Buush\'igesh wash\'ugash \'eegaac.\\
-puu\v{s}\'ihke-\v{s}  ma\v{s}\'uka-\v{s} \'eekaa-c \\
+\glll Buushígesh wash\'ugash éegaac.\\
+puu\v{s}íhke-\v{s}  ma\v{s}\'uka-\v{s} éekaa-c \\
 cat-\textsc{det.d} dog-\textsc{det.d} see-\textsc{decl}  \\
 \trans `The cat sees the dog.'  \citep[214]{Boyle2007}
 
 \ex\label{ex:jrs:24} 
-\glll Mas\'ugash 		buush\'igesh 	\'eegaac.\\
-mas\'uka-\v{s} 		puus\'ihke-\v{s} 	\'ekaa-c \\
+\glll Mas\'ugash 		buushígesh 	éegaac.\\
+mas\'uka-\v{s} 		puusíhke-\v{s} 	ékaa-c \\
 dog-\textsc{det.d} 		cat-\textsc{det.d}\textsc{det}	see-\textsc{decl} \\
 \trans `The cat sees the dog.' \citep[214]{Boyle2007}
 
@@ -332,24 +342,29 @@ dog-\textsc{det.d} 		cat-\textsc{det.d}\textsc{det}	see-\textsc{decl} \\
 	
 \citet{Graczyk1991a} observes that SOV is neutral \isi{word order} for \il{Apsaalooke}Crow as well, and that other word orders have discourse-informational effects.  This is shown below, where \REF{ex:jrs:25} has neutral \isi{word order}, and \REF{ex:jrs:26} has OVS \isi{word order}:
 
+\let\eachwordtwo=\upshape
+
 \begin{exe}
-\ex\label{ex:jrs:25} \gll Shik\'aak-kaatee-sh ash\'e 		hii-\'ak. \\
+\ex\label{ex:jrs:25} \gll Shikáak-kaatee-sh ashé 		hii-ák. \\
 boy-\textsc{dimin-det} 		home 	reach-\textsc{ss} \\
 \trans `The little boy reached home.' \citep[101]{Graczyk1991a}
 
-\ex\label{ex:jrs:26} \gll Iaxp-\'uua 		\'itchi-kiss-uua-sh			koot\'aa 	h\'ii-k 	hinne		tal\'ee-sh. \\
+\ex\label{ex:jrs:26} \gll Iaxp-\'uua 		ítchi-kiss-uua-sh			kootáa 	híi-k 	hinne		talée-sh. \\
 their.feather-\textsc{pl} good-sport-\textsc{pl}-\textsc{det}		entirely 	reach-\textsc{decl}	this 	oil-\textsc{det} \\
 \trans `It entirely covered their beautiful feathers, this oil.' \citep[103]{Graczyk1991a}
 \end{exe}
+
 
 In \REF{ex:jrs:26}, OSV \isi{word order} is used to deemphasize the discourse-old \isi{subject} \textit{talee} `oil', and emphasize the \isi{object} \textit{iaxp} `their feather'.  Based on these \isi{word order} restrictions, West, Boyle and Graczyk all argue that \ili{Assiniboine}, \ili{Hidatsa} and \il{Apsaalooke}Crow are \is{configurationality}configurational. 
 	
 The second piece of evidence that has been previously used to show the presence of a \is{verb phrase}VP in Siouan languages comes from enclitics. \citet{West2003} and \citet{Boyle2007} use the scope of enclitics to argue for a \is{verb phrase}VP constituent. \citet{Boyle2007} demonstrates that the \ili{Hidatsa} habitual enclitic \textit{-\textipa{P}ii} takes scope over both verbs in the example in \REF{ex:jrs:27} below:
 
+
+\let\eachwordtwo=\itshape
 \begin{exe}
 \ex\label{ex:jrs:27} 
-\glll Doosha	wiri\textipa{P}\'eeraga 	ad\'a\textipa{P}a 	 k\textsuperscript{h}\'uuiidoog?\\
-too\v{s}\textsuperscript{h}a 	wiri-\'eeraka 	at\'a-a k\textsuperscript{h}\'uu-\textipa{P}ii-took \\
+\glll Doosha	wiri\textipa{P}éeraga 	adá\textipa{P}a 	 k\textsuperscript{h}\'uuiidoog?\\
+too\v{s}\textsuperscript{h}a 	wiri-éeraka 	atá-a k\textsuperscript{h}\'uu-\textipa{P}ii-took \\
 how 	sun-\textsc{dem} 	appear-\textsc{cont}  come.up-\textsc{hab.sg.spec} \\
 \trans `How does the Sun always appear and come up? (he wondered)' \citep[223]{Boyle2007}
 \end{exe}
@@ -357,7 +372,7 @@ how 	sun-\textsc{dem} 	appear-\textsc{cont}  come.up-\textsc{hab.sg.spec} \\
 The situation is the same in \ili{Assiniboine}.  In \REF{ex:jrs:28} below, the aspectual clitic \textit{s'a} scopes over both verbs, not just to the one to which it is attached:
 
 \begin{exe}
-\ex\label{ex:jrs:28} \gll Wiy\'{\~a}-bi 		\v{z}\'e-na 	woy\'uta 	sp\~ay\'{\~a}-bi 	hikn\'a 	hay\'abi 		ga\v{g}\'e\v{g}e-bi 	s'a. \\
+\ex\label{ex:jrs:28} \gll Wiy\'{ã}-bi 		\v{z}é-na 	woy\'uta 	spãy\'{ã}-bi 	hikná 	hayábi 		ga\v{g}é\v{g}e-bi 	s'a. \\
 woman-\textsc{pl} the-\textsc{pl} 	food 	cook-\textsc{pl} \textsc{conj} 	clothes 	sew-\textsc{pl} 	\textsc{hab} \\
 \trans `The women usually cooked the food and sewed the clothes.' \citep[39]{West2003}
 \end{exe}
@@ -368,23 +383,25 @@ It has been argued for other Siouan languages (\citealt{Boyle2007}, \citealt{Wes
 
 \begin{exe}
 \ex\label{ex:jrs:29} 
-\glll Alex w\'ia ik\'aaa r\'eec.\\
-Alex w\'ia ik\'aa-a r\'ee-c \\
+\glll Alex wía ikáaa réec.\\
+Alex wía ikáa-a rée-c \\
 Alex woman see-\textsc{cont} leave-\textsc{decl} \\
 \trans `Alex saw the woman and (Alex/*the woman) left.' \citep[217]{Boyle2007} 
 \end{exe}
 
 \citet{West2003} provides similar data from \ili{Assiniboine} to support a \is{configurationality}configurational analysis, as shown in \REF{ex:jrs:30} below:
 
+
+\let\eachwordtwo=\upshape
 \begin{exe}
-\ex\label{ex:jrs:30} \gll W\'iy\~a 	 \v{z}e 		{\ob} wic\'a 	\v{s}e 	way\'aga{\cb}  h\~ikn\'a 	{\ob} c\'eya{\cb}. \\
-woman 	\textsc{det} 	man 		the see 				conj 		cry \\
+\ex\label{ex:jrs:30} \gll Wíyã 	 \v{z}e 		{\ob}wicá 	\v{s}e 	wayága{\cb}  hĩkná 	{\ob}céya{\cb}. \\
+woman 	\textsc{det} 	{\db}man 		the see 				\textsc{conj} 		{\db}cry \\
 \trans `The woman saw the man and cried.'
 
 *`The woman saw the man and he cried' \citep[34]{West2003}
 \end{exe}
 
-As in \ili{Hidatsa}, the \isi{subject} of the second conjoined verb \textit{c\'eya} `cry' in \REF{ex:jrs:30} can only be \textit{w\'iy\~a} `the woman'.  In a \is{configurationality}nonconfigurational language, either NP should be able to be the \isi{subject} of the second verb; thus Boyle and West argue that \ili{Hidatsa} and \ili{Assiniboine} are configurational and have a \is{verb phrase}VP constituent.
+As in \ili{Hidatsa}, the \isi{subject} of the second conjoined verb \textit{céya} `cry' in \REF{ex:jrs:30} can only be \textit{wíyã} `the woman'.  In a \is{configurationality}nonconfigurational language, either NP should be able to be the \isi{subject} of the second verb; thus Boyle and West argue that \ili{Hidatsa} and \ili{Assiniboine} are configurational and have a \is{verb phrase}VP constituent.
 
  
 \subsection{Hocąk data}
@@ -393,6 +410,7 @@ In the previous subsection, we presented previous arguments for a \is{configurat
 	
 First, \isi{word order} is crucial to disambiguate \isi{subject}s and \isi{object}s in \il{Ho-Chunk}Hocąk.  In \REF{ex:jrs:31} below, the first argument is interpreted as the \isi{subject}:
  
+\let\eachwordtwo=\itshape
 
 \begin{exe}
 \ex\label{ex:jrs:31} 
@@ -410,10 +428,8 @@ A reading in which the dog saw the cat is also possible for \REF{ex:jrs:31}, but
 As shown in the previous section, \citet{Boyle2007} and \citet{West2003} provided evidence from enclitic scope to show that \ili{Hidatsa} and \ili{Assiniboine} have a \is{verb phrase}VP constituent.  The same proves true in \il{Ho-Chunk}Hocąk.  In \REF{ex:jrs:32}-\REF{ex:jrs:34} below, the enclitics \textit{g\k{i}n\k{i}} `already', \textit{ege} `might' and \textit{\v{z}ee\v{z}i} `hopefully' take scope over both coordinated\is{coordination} verbs in the (b) examples, even though they are only attached to the second verb.
  
 
-\begin{exe}
-\ex\label{ex:jrs:32}
-\begin{xlist}  
-\ex
+\ea\label{ex:jrs:32}
+\ea
 \glll Hunterga 	toora 	tuuc 	wahiig\k{i}n\k{i}. \\
 Hunter-ga 	too-ra 	tuuc 	wa-$\varnothing$-hii=g\k{i}n\k{i} \\
 	Hunter-\textsc{prop} potato-\textsc{def} 	be.cooked 	\textsc{3o.pl-3s-caus}=already \\
@@ -424,10 +440,11 @@ Hunter-ga 	too-ra 	tuuc 	wa-$\varnothing$-hii=g\k{i}n\k{i} \\
 Hunter-ga  too-ra	tuuc 	wa-$\varnothing$-hii 	 anąga wa-$\varnothing$-ruuc=g\k{i}n\k{i} \\
 Hunter-\textsc{prop} potato-\textsc{def} 	be.cooked	 \textsc{3o.pl-3s-caus} and 3O.PL-3S-eat=already\\
 \trans`Hunter already cooked the potatoes and ate them.'
-\end{xlist}
-\ex\label{ex:jrs:33}
-\begin{xlist} 
-\ex
+\z
+\z
+
+\ea\label{ex:jrs:33}
+\ea
 \glll Matejaga 	tookewehiege. \\
 Mateja-ga 	$\varnothing$-tookewehi=ege \\
 	Mateja-\textsc{prop} 	\textsc{3s/o}-be.hungry=might \\
@@ -437,11 +454,11 @@ Mateja-ga 	$\varnothing$-tookewehi=ege \\
 Mateja-ga 			$\varnothing$-tookewehi 	anąga 	$\varnothing$-kere=ege  \\
 Mateja-\textsc{prop} 	\textsc{3s}-be.hungry and 			\textsc{3s}-leave=might \\
 \trans `Mateja might (very well) get hungry and leave.'
-\end{xlist}
+\z
+\z
 
-\ex\label{ex:jrs:34}	
-\begin{xlist} 
-\ex
+\ea\label{ex:jrs:34}	
+\ea
 \glll Bryanga 			{n\k{i}\k{i}ta\v{s}jak taaxu }	ruw\k{i}\v{z}ee\v{z}i. \\
 Bryan-ga 		{n\k{i}\k{i}ta\v{s}jak 	taaxu }	$\varnothing$-ruw\k{i}=\v{z}ee\v{z}i \\
 	Bryan-\textsc{prop} 	coffee	\textsc{3s/o}-buy=wish \\
@@ -451,9 +468,8 @@ Bryan-ga 		{n\k{i}\k{i}ta\v{s}jak 	taaxu }	$\varnothing$-ruw\k{i}=\v{z}ee\v{z}i 
 Bryan-ga 	{n\k{i}\k{i}ta\v{s}jak taaxu }	$\varnothing$-ruw\k{i}  	anąga 	<h\k{i}>$\varnothing$-hok'\k{u}=\v{z}ee\v{z}i \\
 	Bryan-\textsc{prop} 	coffee 		\textsc{3s/o}-buy		 and 		\textsc{<1o>3s}-give=wish \\
 \trans `Hopefully Bryan will buy coffee and give it to me.'
-\end{xlist}
-\end{exe}	
-	
+\z
+\z
  
 If \il{Ho-Chunk}Hocąk lacked a \is{verb phrase}VP, this pattern would be unexpected: the clitics should only be able to scope over the verb to which they are attached. Instead, the clitics in the (b) examples above take scope over both coordinated\is{coordination} verb phrases. This indicates that the constituent that clitics scope over is a \is{verb phrase}VP, and that these enclitics attach at the \is{verb phrase}VP level. 
 	
@@ -544,28 +560,25 @@ Cecil-\textsc{prop}		car-\textsc{indef}			\textsc{3s/o}-buy		\textsc{fut}	and	I	
 
 The examples in \REF{ex:jrs:41} show that \is{ellipsis, verb-phrase}VPE also targets certain adjuncts. (41a) shows that \is{ellipsis, verb-phrase}VPE targets VPs containing temporal adjuncts. In (41b), a locative \isi{adjunct} is included in the \is{ellipsis, verb-phrase}ellipsis site. (41c) exemplifies \is{ellipsis, verb-phrase}VPE with a \isi{comitative}. In all of these examples, the \isi{adjunct} in the antecedent \is{verb phrase}VP is interpreted as being present in the \is{ellipsis, verb-phrase}ellipsis site, indicating that \textit{\k{u}\k{u}} targets the entire \is{verb phrase}VP rather than just the \isi{object}.
 
-\begin{exe}
-\ex\label{ex:jrs:41}
-\begin{xlist}
-\ex 
+\ea\label{ex:jrs:41}
+\ea
 \glll Cecilga 			xjanąre		wa\v{s}i anąga	Bryanga			\v{s}ge  	\k{u}\k{u}.\\
 Cecil-ga			xjanąre		$\varnothing$-wa\v{s}i		anąga	Bryan-ga			\v{s}ge		$\varnothing$-\k{u}\k{u} \\
 	Cecil-\textsc{prop}		yesterday	\textsc{3s}-dance	and			Bryan-\textsc{prop}	also	\textsc{3s}-do \\
 \trans `Cecil danced yesterday, and Bryan did too.'
+
 \ex 
 \glll Cecilga 			ciinąk	eja		wa\v{z}ątirehi\v{z}ą		ruw\k{i}	anąga	Bryanga			\v{s}ge  \k{u}\k{u}. \\
 Cecil-ga			ciinąk	eja		wa\v{z}ątire-hi\v{z}ą	$\varnothing$-ruw\k{i}			anąga	Bryan-ga	\v{s}ge \k{u}\k{u}. \\
 Cecil-\textsc{prop}	city there	car-\textsc{indef}	\textsc{3s/o}-buy and Bryan-\textsc{prop}	also $\varnothing$-\k{u}\k{u} \textsc{3s}-do \\
 \trans `Cecil bought a car in the city, and Bryan did too.'
 
-\protectedex{
 \ex 
 \glll Cecilga 		hin\k{u}kra	haki\v{z}u		wa\v{s}i		anąga	Bryanga			\v{s}ge		\k{u}\k{u}.\\
 Cecil-ga		hin\k{u}k-ra	haki\v{z}u		$\varnothing$-wa\v{s}i		anąga	Bryan-ga	\v{s}ge		$\varnothing$-\k{u}\k{u} \\	Cecil-\textsc{prop}		woman-\textsc{def} 	be.with		3S-dance	and			Bryan-\textsc{prop}	also	\textsc{3s}-do \\
 \trans `Cecil danced with the woman, and Bryan did too.'
-}
-\end{xlist}
-\end{exe}
+\z
+\z
 
 Constructions with \textit{\k{u}\k{u}} cannot be analyzed as a \textit{pro}-form, as \isi{object} extraction is permitted. \REF{ex:jrs:42a} shows that focused elements can be extracted from the \is{ellipsis, verb-phrase}ellipsis site. Furthermore, antecedent-contained deletion (ACD) is also possible {ex:jrs:42b}. ACD would not be possible if \textit{\k{u}\k{u}} were a \textit{pro}-form, since the head of the \is{clauses, relative}relative clause is the \isi{object} of the elided verb phrase.
 
@@ -683,7 +696,7 @@ It has previously been observed for other languages, such as \ili{English}, that
 \glll Rockyga			wan\k{i}ra			\v{s}uuc 		gistak\v{s}ąną.\\
 Rocky-ga		wan\k{i}-ra		\v{s}uuc		$\varnothing$-gistak-\v{s}ąną \\
 Rocky-\textsc{prop}	meat-\textsc{def}	red			\textsc{3s/o}-hit-\textsc{decl} \\
-\trans = `Rocky hit the meat red.'
+\trans $=$ `Rocky hit the meat red.'
 
 $\neq$`Rocky hit the meat red and he was red as a result.'
 \end{exe}
@@ -754,7 +767,7 @@ The abbreviations used in the \il{Ho-Chunk}Hocąk examples are: 1, 2, 3 = first,
  
  
  
-
+{\sloppy 
 \printbibliography[heading=subbibliography,notkeyword=this]
-
+}
 \end{document} 
