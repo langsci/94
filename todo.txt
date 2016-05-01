@@ -3,3 +3,8 @@ bib red
 bib consistency
 sanity check per chapters
 conform abbreviations chapters
+proofreaders; typesetters
+US graphics
+Rood italics
+Examples numbering in footnotes
+see also 
