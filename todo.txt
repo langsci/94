@@ -1,6 +1,1 @@
-this volume chapter references
-bib red
-bib consistency
-sanity check per chapters   
-urldate
-jiwere jiwére 
+urldate  

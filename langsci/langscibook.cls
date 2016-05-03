@@ -1246,13 +1246,13 @@ Storage and cataloguing done by FU Berlin \\[3ex]
 
 \IfFileExists{\logopath/FULogo_sw_CMYK.pdf}{\includegraphics[width=5cm]{\logopath/FULogo_sw_CMYK.pdf}}{FU-Logo} \\[3ex]
 
-\vfill
+% \vfill
 
-\noindent
-\lsp has no responsibility for the persistence or accuracy of URLs for
-external or third-party Internet websites referred to in this
-publication, and does not guarantee that any content on such websites
-is, or will remain, accurate or appropriate. 
+% \noindent
+% \lsp has no responsibility for the persistence or accuracy of URLs for
+% external or third-party Internet websites referred to in this
+% publication, and does not guarantee that any content on such websites
+% is, or will remain, accurate or appropriate. 
 %Information regarding prices, travel timetables and other factual information given in this work are correct at the time of first publication but \lsp does not guarantee the accuracy of such information thereafter. 
 }
 
