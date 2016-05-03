@@ -4,7 +4,7 @@
 %%%         follow the instructions below        %%%
 %%%                                              %%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
- 
+
 % Everything following a % is ignored
 % Some lines start with %. Remove the % to include them
 
@@ -15,8 +15,12 @@
 	        ,collectionchapter
 	        ,collectiontoclongg
 % 	        ,biblatexbackend=bibtex
+%  		,draft
+%  		,draftmode
  	        ,biblatex  
-		  ]{LSP/langsci}                               %%%
+% 		,nonflat
+% 		,modfonts
+		  ]{langsci/langscibook}                           
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 % put all additional commands you need in the 
@@ -26,8 +30,9 @@
 \input{localmetadata.tex}
 \input{localpackages.tex}
 \input{localhyphenation.tex}
-\input{localcommands.tex} 
-\bibliography{localbibliography}
+\input{localcommands.tex}  
+% \bibliography{processed} 
+\bibliography{localbibliography} 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%                                              %%%
@@ -35,28 +40,51 @@
 %%%                                              %%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{document}         
+%:
 \maketitle                
 \frontmatter
 % %% uncomment if you have preface and/or acknowledgements
 
 \currentpdfbookmark{Contents}{name} % adds a PDF bookmark
 \tableofcontents
-% \include{chapters/preface}
-% \include{chapters/acknowledgments}
-
+\newcommand{\chapterpath}{indexed}%chapters|indexed
+\include{\chapterpath/preface}
+\include{\chapterpath/acknowledgments}
+ 
 \mainmatter          
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
 %%%                                              %%%
 %%%             Chapters                         %%%
 %%%                                              %%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
- 
+\input{localseealso.tex} 
 
-\includepaper{chapters/01} %add a percentage sign in front of the line to exclude this chapter from book
-\includepaper{chapters/02} 
-\includepaper{chapters/03} 
-% copy the lines above and adapt as necessary
+\part{Historical linguistics and philology}   
+\include{\chapterpath/partintro-1}
+\includepaper{\chapterpath/Kasak} 
+\includepaper{\chapterpath/Kaufman}
+\includepaper{\chapterpath/Larson}
+\includepaper{\chapterpath/Danker}
+\includepaper{\chapterpath/Grant}
+\part{Applied and descriptive linguistics}
+\include{\chapterpath/partintro-2}
+\includepaper{\chapterpath/Cumberland}
+\includepaper{\chapterpath/Goodtracks}
+\includepaper{\chapterpath/McBride}
+\includepaper{\chapterpath/Greer}
+\part{Analyses of individual Siouan languages}
+\include{\chapterpath/partintro-3}
+\includepaper{\chapterpath/Rood}  
+\includepaper{\chapterpath/Boyle} 
+\includepaper{\chapterpath/Johnson}
+\includepaper{\chapterpath/Rosen}
+\includepaper{\chapterpath/JohnsonRosenSchuck}
+\part{Cross-Siouan studies}
+\include{\chapterpath/partintro-4}  
+\includepaper{\chapterpath/Rudin} 
+\includepaper{\chapterpath/Gordon}
+\includepaper{\chapterpath/Helmbrecht} 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%                                              %%%
@@ -65,19 +93,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 % There is normally no need to change the backmatter section
+% {\sloppy
 \input{backmatter.tex}
-
+% }
 \end{document} 
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%                                              %%%
-%%%                  END                         %%%
-%%%                                              %%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-% you can create your book by running
-% xelatex lsp-edskeleton.tex
-%
-% you can also try a simple 
-% make
-% on the commandline

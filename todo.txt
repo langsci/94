@@ -3,4 +3,4 @@ bib red
 bib consistency
 sanity check per chapters   
 urldate
-jiwere jiwére
+jiwere jiwére 
