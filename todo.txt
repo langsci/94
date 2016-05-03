@@ -1,7 +1,6 @@
 this volume chapter references
 bib red
 bib consistency
-sanity check per chapters  
-US graphics 
-see also 
+sanity check per chapters   
 urldate
+jiwere jiwére

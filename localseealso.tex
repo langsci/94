@@ -7,7 +7,7 @@
 \il{Bdewákaƞtȟuƞwaƞ| see {Santee}}
 \il{Central Siouan| see {Mississippi Valley Siouan}}
 \il{Chiwere| see {Ioway, Otoe-Missouria}}
-\il{Chiwere-Winnebago| see {Ho-Chunk-Jiwere}}
+\il{Chiwere-Winnebago| see {Ho-Chunk-Ji\-we\-re}}
 \il{Crow| see {Apsaalooke}}
 \il{Euchee| see {Yuchi}}
 \il{Fox| see {Mesquakie}}
@@ -24,7 +24,7 @@
 \il{Iroquois| see {Haudenosaunee}}
 \il{Isáƞyathi| see {Santee}}
 \il{Jiwére| see {Otoe}}
-\il{Jiwere-Ho-Chunk| see {Ho-Chunk-Jiwere}}
+\il{Jiwere-Ho-Chunk| see {Ho-Chunk-Ji\-we\-re}}
 \il{Kaáⁿze| see {Kanza}}
 \il{Káⁿze| see {Kanza}}
 \il{Kansa| see {Kanza}}
@@ -54,7 +54,7 @@
 \il{Páⁿka| see {Ponca}}
 \is{phonetic alphabet| see {orthography}}
 \is{plain stops| see {simple stops}}
-\il{Proto-Siouan-Catawban| see {Proto-Siouan}}
+\il{Proto-Siouan-Catawban| see {Proto-Siou\-an}}
 \is{relative clause| see {clauses, relative}}
 \is{rhotic| see {liquid}}
 \il{Rų’eta| see {Mandan}}
@@ -79,7 +79,7 @@
 \il{Washáshe| see {Osage}}
 \ia{Wied| see {zu Wied-Neuwied}}
 \il{Winnebago| see {Ho-Chunk}}
-\il{Winnebago-Chiwere| see {Ho-Chunk-Jiwére}}
+\il{Winnebago-Chiwere| see {Ho-Chunk-Ji\-wé\-re}}
 \is{writing system| see {orthography}}
 \il{Yesánq| see {Tutelo}}
 \il{Iipay@'Iipay Aa| see {Diegueno}}
@@ -89,9 +89,17 @@
 \il{Nakota| see {Assiniboine}}
 \il{Nakota| seealso {Dakotan, Stoney}}
 
+% \def\igobble#1 {}
+% \def\myseealso#1{\hspace*{1cm}\seealso{#1}}
+
+\def\igobble#1 {}
 %SEE ALSO - just putting in a couple for now to see how they render
-\il{Western Muskogean| seealso{Muskogean}}
-\il{Muskogean@\igobble | seealso{Western Muskogean}}
+\newcommand{\myseealso}{\par\addvspace{.1\baselineskip}\hspace*{1.4cm}\seealso}
+\newcommand{\ilsa}[2]{\il{#1@\igobble | myseealso{#2}}}
+% \il{Western Muskogean| seealso{Muskogean}}
+\ilsa{Muskogean}{Western Muskogean}
+\ilsa{Western Muskogean}{Muskogean}
+% \il{Muskogean@\igobble | seealso{Western Muskogean}}
 
 
 
