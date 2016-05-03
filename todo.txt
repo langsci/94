@@ -2,7 +2,6 @@ this volume chapter references
 bib red
 bib consistency
 sanity check per chapters  
-US graphics
-Rood italics
-Examples numbering in footnotes
+US graphics 
 see also 
+urldate
