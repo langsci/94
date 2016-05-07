@@ -25,8 +25,9 @@ main1-blx.bbl:  $(SOURCE) localbibliography.bib
 
 main.snd: main1-blx.bbl
 	sed -i s/.*\\emph.*// main.adx #remove titles which biblatex puts into the name index
+	sed -i s/.*\\anguage.*// main.adx #remove institutions from author index
 	sed -i 's/hyperindexformat{\\\(infn {[0-9]*\)}/\1/' main.sdx # ordering of references to footnotes
-	sed -i 's/hyperindexfmake bormat{\\\(infn {[0-9]*\)}/\1/' main.adx
+	sed -i 's/hyperindexformat{\\\(infn {[0-9]*\)}/\1/' main.adx
 	sed -i 's/hyperindexformat{\\\(infn {[0-9]*\)}/\1/' main.ldx
 # 	python3 fixindex.py
 # 	mv mainmod.adx main.adx
