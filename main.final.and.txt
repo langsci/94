@@ -1,0 +1,634 @@
+\begin{theindex}
+
+  \item Adelung, Johann~C., \hyperpage{8}
+  \item Agbayani, Brian, \hyperpage{282}
+  \item Ahlers, Jocelyn~C., \hyperpage{148}, \hyperpage{153}
+  \item Anderson, Stephen~R., \hyperpage{33}
+  \item Ariel, Mira, \hyperpage{395}
+  \item Aschmann, Herman~Pedro, \hyperpage{57}
+  \item Avery, Peter, \hyperpage{241}
+  \item Awakuni-Swetland, Mark, \hyperpage{63}
+
+  \indexspace
+
+  \item Baker, Mark~C., \hyperpage{328}, \hyperpage{335}, 
+		\hyperpage{344--347}
+  \item Baldwin, Daryl, \hyperpage{158}
+  \item Barshi, Immanuel, \hyperpage{425}
+  \item Basilico, David, \hyperpage{255}, \hyperpage{277--281}
+  \item Beckman, Jill, \hyperpage{233}, \hyperpage{248}
+  \item Beckman, Mary, \hyperpage{396}
+  \item Ben-Avi, Ittamar, \hyperpage{158}
+  \item Ben-Yehuda, Eliezer, \hyperpage{157}
+  \item Bhatt, Rajesh, \hyperpage{332}
+  \item Bianchi, Valentina, \hyperpage{256}, \hyperpage{260, 261}, 
+		\hyperpage{277}
+  \item Bieder, Robert~E., \hyperpage{85}
+  \item Bird, Stephen, \hyperpage{404}, \hyperpage{409}
+  \item Birner, Betty~J., \hyperpage{395}
+  \item Bloomfield, Leonard, \hyperpage{6}
+  \item Blowsnake, Sam, \hyperpage{83, 84}, \hyperpage{91, 92}, 
+		\hyperpage{94--96}, \hyperpage{98--100}
+  \item Boas, Franz, \hyperpage{383}, \hyperpage{449, 450}
+  \item Boersma, Paul, \hyperpage{398}
+  \item Bogdanovich, Peter, \hyperpage{155}
+  \item Bolinger, Dwight, \hyperpage{397}
+  \item Bonneau, Jos\'e, \hyperpage{x}, \hyperpage{277}
+  \item Booker, Karen~M., \hyperpage{10}, \hyperpage{12}
+  \item Botma, Bert, \hyperpage{240--242}, \hyperpage{248}
+  \item Bowers, John, \hyperpage{324}
+  \item Boyle, John~P., \hyperpage{ix}, \hyperpage{xiii, xiv}, 
+		\hyperpage{45}, \hyperpage{168}, \hyperpage{187}, 
+		\hyperpage{199}, \hyperpage{231}, \hyperpage{256}, 
+		\hyperpage{260}, \hyperpage{268}, \hyperpage{339}, 
+		\hyperpage{341}, \hyperpage{348--352}, \hyperpage{360}, 
+		\hyperpage{370}, \hyperpage{384}, \hyperpage{400}, 
+		\hyperpage{413}, \hyperpage{442, 443}
+  \item Brass, Andrew, \hyperpage{277}
+  \item Bresnan, Joan, \hyperpage{292}
+  \item Broadwell, George~Aaron, \hyperpage{46}, \hyperpage{48}, 
+		\hyperpage{51}, \hyperpage{277}
+  \item Brown, Cecil~H., \hyperpage{194}
+  \item Brown, Lea, \hyperpage{370}
+  \item Buechel S.~J., Eugene, \hyperpage{236}, \hyperpage{446--451}
+  \item Buffalohead, Eric, \hyperpage{147}
+  \item Burnett, Lonnie, \hyperpage{126, 127}
+
+  \indexspace
+
+  \item Campbell, Lyle, \hyperpage{13--15}
+  \item Campbell, Sky, \hyperpage{146}
+  \item Carrier, Jill, \hyperpage{320}, \hyperpage{324}
+  \item Carstens, Vicki, \hyperpage{370}
+  \item Carter Jr., Richard~T., \hyperpage{8}, \hyperpage{15}, 
+		\hyperpage{20}, \hyperpage{63, 64}, 
+		\hyperpage{237, 238}, \hyperpage{242}, \hyperpage{404}, 
+		\hyperpage{409}, \hyperpage{414}, \hyperpage{416}
+  \item Carter, Richard~T., \hyperpage{3}, \hyperpage{16}, 
+		\hyperpage{65}, \hyperpage{250, 251}
+  \item Chafe, Wallace~L., \hyperpage{5}, \hyperpage{14, 15}
+  \item Cheng, Lisa Lai~Shen, \hyperpage{268}
+  \item Chomsky, Noam, \hyperpage{255}, \hyperpage{268}, 
+		\hyperpage{314}, \hyperpage{321}, \hyperpage{325}, 
+		\hyperpage{342}
+  \item Choteau, Levi, \hyperpage{122}
+  \item Citko, Barbara, \hyperpage{261}, \hyperpage{369, 370}
+  \item Clark, Carol, \hyperpage{126}
+  \item Clark, Elmer, \hyperpage{121}, \hyperpage{123}, \hyperpage{127}
+  \item Clarkson, John, \hyperpage{384}
+  \item Clay, Mary, \hyperpage{373}
+  \item Clements, George~N., \hyperpage{233}
+  \item Cole, Peter, \hyperpage{x}, \hyperpage{255}, \hyperpage{259}, 
+		\hyperpage{261}, \hyperpage{277}
+  \item Comrie, Bernard, \hyperpage{427}
+  \item Conn, Tom, \hyperpage{120}
+  \item Corver, Norbert, \hyperpage{331, 332}, \hyperpage{334}
+  \item Costa, David, \hyperpage{111}
+  \item Craenenbroeck, Jeroen van, \hyperpage{296}
+  \item Crawford, James~M., \hyperpage{44}
+  \item Croft, William, \hyperpage{427}
+  \item Culy, Christopher, \hyperpage{255, 256}, \hyperpage{260--270}, 
+		\hyperpage{277, 278}, \hyperpage{281, 282}
+  \item Cumberland, Linda~A., \hyperpage{xii, xiii}, \hyperpage{41}, 
+		\hyperpage{108}, \hyperpage{110}, \hyperpage{117}, 
+		\hyperpage{119}, \hyperpage{168}, \hyperpage{171}, 
+		\hyperpage{210}, \hyperpage{256}, \hyperpage{381, 382}, 
+		\hyperpage{400}, \hyperpage{403}, \hyperpage{406}, 
+		\hyperpage{414}, \hyperpage{416}
+
+  \indexspace
+
+  \item Dailey, George Washington, \hyperpage{211}
+  \item Dailey, Truman~W., \hyperpage{184}, \hyperpage{213}
+  \item Danker, Kathleen, \hyperpage{xii}, \hyperpage{4}
+  \item Dauenhauer, Nora~Marks, \hyperpage{147}, \hyperpage{153, 154}
+  \item Dauenhauer, Richard, \hyperpage{147}, \hyperpage{153, 154}
+  \item Davidson, Jill~D., \hyperpage{145, 146}, \hyperpage{191}, 
+		\hyperpage{195}, \hyperpage{199}, \hyperpage{202}, 
+		\hyperpage{204, 205}, \hyperpage{211}, \hyperpage{213}, 
+		\hyperpage{216}, \hyperpage{218}
+  \item Day, Gordon~M., \hyperpage{9}
+  \item de Reuse, Willem, \hyperpage{63}
+  \item de Soto, Hernando, \hyperpage{10, 11}
+  \item Debenport, Erin, \hyperpage{148}, \hyperpage{150}
+  \item DeKnight, Emma, \hyperpage{219}
+  \item Deloria, Ella, \hyperpage{239}, \hyperpage{383}, 
+		\hyperpage{405}, \hyperpage{408}, \hyperpage{416}, 
+		\hyperpage{449, 450}
+  \item DeMallie, Raymond~J., \hyperpage{65}, \hyperpage{72}
+  \item Dixon, Robert Malcolm~Ward, \hyperpage{335}, \hyperpage{424}, 
+		\hyperpage{427, 428}
+  \item Di~Sciullo, Anna~Maria, \hyperpage{256}, \hyperpage{260}
+  \item Dorsey, James Owen, \hyperpage{121--123}, \hyperpage{165--167}, 
+		\hyperpage{192}, \hyperpage{219}, \hyperpage{372}, 
+		\hyperpage{374}
+  \item Dorsey, James~Owen, \hyperpage{9}, \hyperpage{41}, 
+		\hyperpage{43--48}, \hyperpage{50}, \hyperpage{188}, 
+		\hyperpage{207}, \hyperpage{212}, \hyperpage{217}, 
+		\hyperpage{222}, \hyperpage{380}, \hyperpage{385}, 
+		\hyperpage{395}, \hyperpage{416}
+  \item Drechsel, Emanuel, \hyperpage{44}
+  \item Drummond, Valerie~E., \hyperpage{256}
+  \item Dryer, Matthew~S., \hyperpage{370}
+  \item Dunn, Michael, \hyperpage{7}
+
+  \indexspace
+
+  \item Eagle, Annie, \hyperpage{403}, \hyperpage{412}
+  \item Einaudi, Paula~Ferris, \hyperpage{454, 455}
+  \item England, Nora, \hyperpage{426}
+  \item Erteschik-Shir, Nomi, \hyperpage{395}
+  \item Eschenberg, Ardis, \hyperpage{375}, \hyperpage{393}
+
+  \indexspace
+
+  \item Fabricius-Hansen, Cathrine, \hyperpage{370}
+  \item Fauconnier, Gilles, \hyperpage{261}
+  \item Fellman, Jack, \hyperpage{158}
+  \item Fennig, Charles~D., \hyperpage{134}
+  \item Field, Margaret~C., \hyperpage{153}
+  \item Fielder, Grace~E., \hyperpage{371}
+  \item Fiengo, Robert, \hyperpage{307, 308}
+  \item Fletcher, Alice~C., \hyperpage{84--86}, \hyperpage{89--91}, 
+		\hyperpage{94}, \hyperpage{99}
+  \item Fortin, Catherine~Rose, \hyperpage{288}, \hyperpage{299}, 
+		\hyperpage{306, 307}, \hyperpage{310}
+  \item Foster, Lance~M., \hyperpage{146}
+  \item Franquelin, Jean-Baptiste-Louis, \hyperpage{9}
+  \item Frenchman, Jim, \hyperpage{98}
+  \item Furbee, Louanna, \hyperpage{198}, \hyperpage{215}
+  \item Furbee, Nonnie~Louanna, \hyperpage{63}, \hyperpage{145}, 
+		\hyperpage{183--185}, \hyperpage{221}
+
+  \indexspace
+
+  \item Gallatin, Albert, \hyperpage{8}, \hyperpage{13}
+  \item Gallego, \'{A}ngel~J., \hyperpage{296}
+  \item Galvan, Glenda, \hyperpage{57}
+  \item Garc\'ia, Bartolom\'e, \hyperpage{107}
+  \item Garvin, Cecil, \hyperpage{310}, \hyperpage{313}, 
+		\hyperpage{335}, \hyperpage{360}, \hyperpage{410}
+  \item Garvin, Henning, \hyperpage{437}
+  \item Gatschet, Albert~Samuel, \hyperpage{9}, \hyperpage{11, 12}, 
+		\hyperpage{27}, \hyperpage{44}, \hyperpage{47, 48}, 
+		\hyperpage{50}
+  \item Gengel, Kirsten, \hyperpage{296}
+  \item Goddard, Ives, \hyperpage{5, 6}, \hyperpage{183}
+  \item Goffman, Erving, \hyperpage{396}
+  \item Goldberg, Lotus~Madelyn, \hyperpage{288}, \hyperpage{297}, 
+		\hyperpage{299}, \hyperpage{301, 302}, \hyperpage{310}
+  \item Goodtracks, Jimm~G., \hyperpage{xii}, \hyperpage{63}, 
+		\hyperpage{117}, \hyperpage{133--135}, \hyperpage{139}, 
+		\hyperpage{141}, \hyperpage{145--151}, 
+		\hyperpage{154--159}, \hyperpage{188, 189}, 
+		\hyperpage{191}, \hyperpage{195}, \hyperpage{198}, 
+		\hyperpage{220, 221}, \hyperpage{382}, \hyperpage{400}, 
+		\hyperpage{404}, \hyperpage{411}, \hyperpage{417}
+  \item Goodtracks, Sage, \hyperpage{134}, \hyperpage{139--141}, 
+		\hyperpage{151}, \hyperpage{155, 156}, \hyperpage{159}
+  \item Gorbet, Larry, \hyperpage{259}, \hyperpage{261}
+  \item Gordon, Bryan~James, \hyperpage{xi--xiii}, \hyperpage{117}, 
+		\hyperpage{133, 134}, \hyperpage{139}, \hyperpage{149}, 
+		\hyperpage{151}, \hyperpage{154, 155}, \hyperpage{365}, 
+		\hyperpage{382}, \hyperpage{400}, \hyperpage{402}
+  \item Gordon, Zachary, \hyperpage{269}
+  \item Graczyk, Randolph~Jan, \hyperpage{63}, \hyperpage{194}, 
+		\hyperpage{256}, \hyperpage{339}, \hyperpage{349}, 
+		\hyperpage{351}, \hyperpage{360}, \hyperpage{370}, 
+		\hyperpage{384}, \hyperpage{394}, \hyperpage{400}, 
+		\hyperpage{407, 408}, \hyperpage{412}, 
+		\hyperpage{438--441}
+  \item Grant, Anthony, \hyperpage{xii}, \hyperpage{4}
+  \item Greer, Jill~D., \hyperpage{xiii}, \hyperpage{63}, 
+		\hyperpage{118}, \hyperpage{200, 201}, \hyperpage{221}, 
+		\hyperpage{382}
+  \item Gundel, Jeanette~Kuhn, \hyperpage{395}
+  \item Gwin, Alex, \hyperpage{282}
+
+  \indexspace
+
+  \item Haas, Mary, \hyperpage{14, 15}, \hyperpage{43}, 
+		\hyperpage{50, 51}, \hyperpage{57}
+  \item Haldeman, Samuel~Stehman, \hyperpage{4}, \hyperpage{103--107}, 
+		\hyperpage{109, 110}
+  \item Hale, Horatio, \hyperpage{8}
+  \item Hale, Kenneth, \hyperpage{188}, \hyperpage{261}, \hyperpage{340}, 
+		\hyperpage{344--346}, \hyperpage{348}
+  \item Hallman, Peter, \hyperpage{296}
+  \item Hamilton, Rev.~William, \hyperpage{202}, \hyperpage{206}, 
+		\hyperpage{215}
+  \item Hamp, Eric, \hyperpage{184}
+  \item Hankamer, Jorge, \hyperpage{309}
+  \item Hanna, Charles~A., \hyperpage{9}
+  \item Harris, John, \hyperpage{246}, \hyperpage{248}
+  \item Harshav, Benjamin, \hyperpage{158}
+  \item Hartmann, Iren, \hyperpage{xiv}, \hyperpage{150}, 
+		\hyperpage{214}, \hyperpage{293}, \hyperpage{295, 296}, 
+		\hyperpage{311}, \hyperpage{335}, \hyperpage{347}, 
+		\hyperpage{360}, \hyperpage{382}, \hyperpage{410}, 
+		\hyperpage{417}
+  \item Haspelmath, Martin, \hyperpage{52, 53}, \hyperpage{370}
+  \item Heath, Jeffrey, \hyperpage{218}
+  \item Hedberg, Nancy, \hyperpage{395}
+  \item Heim, Irene, \hyperpage{231}, \hyperpage{255}, 
+		\hyperpage{276--278}
+  \item Heine, Bernd, \hyperpage{424}, \hyperpage{437}
+  \item Helmbrecht, Johannes, \hyperpage{x, xi}, \hyperpage{xiii}, 
+		\hyperpage{74}, \hyperpage{189}, \hyperpage{191}, 
+		\hyperpage{214}, \hyperpage{313, 314}, \hyperpage{327}, 
+		\hyperpage{335}, \hyperpage{365}, \hyperpage{382}, 
+		\hyperpage{424--426}, \hyperpage{429--434}
+  \item Hendricks, Johny ``Bigg Rigg'', \hyperpage{148}
+  \item Herbert, Wayne, \hyperpage{259}
+  \item Hermon, Gabriella, \hyperpage{259}, \hyperpage{277}
+  \item Hieber, Daniel, \hyperpage{47}
+  \item Higginbotham, James, \hyperpage{334}
+  \item Hinton, Leanne, \hyperpage{157, 158}
+  \item Hirschberg, Julia, \hyperpage{396}, \hyperpage{409, 410}
+  \item Hoeksema, Jack, \hyperpage{263}
+  \item Hoekstra, Teun, \hyperpage{324}
+  \item Hollow, Robert~C., \hyperpage{29, 30}, \hyperpage{401}, 
+		\hyperpage{404}, \hyperpage{412}, \hyperpage{418}
+  \item Holmberg, Anders, \hyperpage{296}
+  \item Honeybone, Patrick, \hyperpage{245, 246}
+  \item Hopkins, Jill~D., \hyperpage{198}, \hyperpage{201}, 
+		\hyperpage{210}, \hyperpage{215, 216}
+  \item Hudson, Charles~M., \hyperpage{10}, \hyperpage{12}
+
+  \indexspace
+
+  \item Ingham, Bruce, \hyperpage{xi}, \hyperpage{383}, \hyperpage{400}, 
+		\hyperpage{417}
+  \item Irvin, Samuel, \hyperpage{202}, \hyperpage{206}, 
+		\hyperpage{215}
+  \item Iverson, Gregory~K., \hyperpage{245}
+
+  \indexspace
+
+  \item Jackendoff, Ray, \hyperpage{264}, \hyperpage{332}
+  \item Jackson, Jason~B., \hyperpage{12}
+  \item Jason Merchant, \hyperpage{282}
+  \item Jelinek, Eloise, \hyperpage{xi}, \hyperpage{277, 278}, 
+		\hyperpage{340, 341}, \hyperpage{344--346}, 
+		\hyperpage{348}
+  \item Jennings, Francis, \hyperpage{11}
+  \item Jessen, Michael, \hyperpage{233}, \hyperpage{248}
+  \item Johannessen, Janne~Bondi, \hyperpage{370}
+  \item Johnson, Meredith, \hyperpage{xi}, \hyperpage{xiii}, 
+		\hyperpage{231, 232}, \hyperpage{299}, \hyperpage{316}, 
+		\hyperpage{322, 323}, \hyperpage{331}, \hyperpage{335}, 
+		\hyperpage{354}, \hyperpage{356, 357}
+  \item Jones, A.~Wesley, \hyperpage{3}, \hyperpage{16}, \hyperpage{63}, 
+		\hyperpage{65}, \hyperpage{250, 251}, \hyperpage{401}, 
+		\hyperpage{404}, \hyperpage{412}, \hyperpage{418}
+  \item Jones, Matthew~L., \hyperpage{146}
+  \item Jones, William, \hyperpage{84}, \hyperpage{87, 88}, 
+		\hyperpage{96}
+  \item Justeson, John, \hyperpage{56}
+
+  \indexspace
+
+  \item Kaman\=a, Kauanoe, \hyperpage{154}
+  \item Kan, Sergei, \hyperpage{152}
+  \item Kasak, Ryan~M., \hyperpage{xii}, \hyperpage{3}, \hyperpage{15}, 
+		\hyperpage{18}, \hyperpage{65}
+  \item Kaufman, David~V., \hyperpage{xii}, \hyperpage{3}, 
+		\hyperpage{9}, \hyperpage{14}, \hyperpage{39}, 
+		\hyperpage{42}, \hyperpage{44--46}, \hyperpage{49}, 
+		\hyperpage{59}, \hyperpage{129}, \hyperpage{394}
+  \item Kaufman, Terrence, \hyperpage{56}
+  \item Kayne, Richard, \hyperpage{x}, \hyperpage{256}, 
+		\hyperpage{260, 261}, \hyperpage{277}
+  \item Kekahbah, Curtis, \hyperpage{126}
+  \item Kekahbah, Walter, \hyperpage{120}, \hyperpage{124, 125}
+  \item Kelly, John, \hyperpage{108}
+  \item Kennard, Edward~A., \hyperpage{417}, \hyperpage{445}
+  \item Kennedy, Chris, \hyperpage{334}
+  \item Kent, Reuben, \hyperpage{146}
+  \item Kimball, Geoffrey, \hyperpage{48, 49}
+  \item King, Jeanette, \hyperpage{154}
+  \item Koontz, John~E., \hyperpage{xii}, \hyperpage{10}, 
+		\hyperpage{63, 64}, \hyperpage{137}, \hyperpage{139}, 
+		\hyperpage{149}, \hyperpage{250}, \hyperpage{372}, 
+		\hyperpage{374, 375}, \hyperpage{379, 380}, 
+		\hyperpage{393}
+  \item Kornfilt, Jaklin, \hyperpage{426}
+  \item Kratzer, Angelika, \hyperpage{278}
+  \item Kroskrity, Paul~V., \hyperpage{146}, \hyperpage{153}
+
+  \indexspace
+
+  \item Langacker, Ronald~W., \hyperpage{432}
+  \item LaPolla, Randy~J., \hyperpage{268}
+  \item Larson, Bradley, \hyperpage{370}
+  \item Larson, Richard~K., \hyperpage{289}, \hyperpage{313, 314}, 
+		\hyperpage{324}, \hyperpage{335}
+  \item Larson, Rory, \hyperpage{xii}, \hyperpage{3}, \hyperpage{194}, 
+		\hyperpage{397}
+  \item Latham, Robert~G., \hyperpage{13}
+  \item Lefebvre, Claire, \hyperpage{277}
+  \item Lehmann, Christian, \hyperpage{189}, \hyperpage{425}
+  \item Leonard, Wesley~Y., \hyperpage{158}
+  \item Lepsius, Carl~Richard, \hyperpage{104}
+  \item Lesley, J.~Peter, \hyperpage{103}
+  \item Levin, Beth, \hyperpage{290}, \hyperpage{320}, 
+		\hyperpage{322--324}, \hyperpage{326}, \hyperpage{357}
+  \item Levin, Norman~Balfour, \hyperpage{382, 383}
+  \item Lewis, M.~Paul, \hyperpage{134}
+  \item Li, Yafei, \hyperpage{310}, \hyperpage{316}, \hyperpage{320}, 
+		\hyperpage{324}, \hyperpage{326}, \hyperpage{328--330}, 
+		\hyperpage{335}
+  \item Lightfoot, Arthur, \hyperpage{155}, \hyperpage{213}
+  \item Linn, Mary~S., \hyperpage{11, 12}, \hyperpage{16}, 
+		\hyperpage{18}, \hyperpage{20}, \hyperpage{23}, 
+		\hyperpage{26--30}, \hyperpage{32}
+  \item Lipkind, William, \hyperpage{101}, \hyperpage{313, 314}, 
+		\hyperpage{327}, \hyperpage{437}
+  \item Little Doe, Jessie, \hyperpage{158}
+  \item Lobeck, Anne, \hyperpage{292}
+  \item Local, John, \hyperpage{108}
+  \item Lowie, Robert~H., \hyperpage{257}, \hyperpage{410, 411}, 
+		\hyperpage{417}
+
+  \indexspace
+
+  \item MacKay, Carolyn~Joyce., \hyperpage{57}
+  \item Makepeace, Anne, \hyperpage{158}
+  \item Mann, Charles~C, \hyperpage{10}
+  \item Mark, Joan~T., \hyperpage{85, 86}
+  \item Marschke, Christian, \hyperpage{150}, \hyperpage{410}, 
+		\hyperpage{417}
+  \item Marsh, Gordon~H., \hyperpage{184}, \hyperpage{190}, 
+		\hyperpage{193--196}, \hyperpage{198}, \hyperpage{206}, 
+		\hyperpage{215}, \hyperpage{219, 220}, \hyperpage{401}, 
+		\hyperpage{405}, \hyperpage{418}
+  \item Matthews, George~Hubert, \hyperpage{268}
+  \item Matthewson, Lisa, \hyperpage{313}
+  \item Maximilian, \hyperindexformat{\see {zu Wied-Neuwied}}{461}
+  \item Maxúthga, \hyperpage{155}
+  \item May, Robert, \hyperpage{307, 308}
+  \item McBride, Justin~T., \hyperpage{xiii}, \hyperpage{117}, 
+		\hyperpage{119}, \hyperpage{126, 127}, \hyperpage{129}, 
+		\hyperpage{171}, \hyperpage{381}
+  \item McCauley, Johnny, \hyperpage{126}
+  \item McNally, Louise, \hyperpage{334}, \hyperpage{370}
+  \item Meek, Barbra~A., \hyperpage{148}
+  \item Mehojah family, \hyperpage{120}
+  \item Merchant, Jason, \hyperpage{296}
+  \item Meyer, William, \hyperpage{40}
+  \item Mielke, Jeff, \hyperpage{247}
+  \item Mike, Phil, \hyperpage{437}
+  \item Miner, Kenneth~L., \hyperpage{63}, \hyperpage{137}, 
+		\hyperpage{188}, \hyperpage{237}
+  \item Mirzayan, Armik, \hyperpage{396, 397}, \hyperpage{399}
+  \item Mithun, Marianne, \hyperpage{7}, \hyperpage{12, 13}, 
+		\hyperpage{48}, \hyperpage{371}, \hyperpage{388}, 
+		\hyperpage{400}, \hyperpage{424}
+  \item Mixco, Mauricio~J., \hyperpage{418}, \hyperpage{444--446}
+  \item Monroe, Clyde, \hyperpage{120}
+  \item Moore, Robert~E., \hyperpage{152}, \hyperpage{157}
+  \item Morehouse, George, \hyperpage{130}
+  \item Morgan, Lewis~Henry, \hyperpage{13}
+  \item Muehlmann, Shaylih, \hyperpage{148}
+  \item Mulder, Jean, \hyperpage{371}
+  \item Munn, Alan, \hyperpage{369}
+  \item Murasugi, Keiko, \hyperpage{x}
+  \item Murray, Franklin, \hyperpage{137}
+  \item Muysken, Pieter, \hyperpage{277}
+
+  \indexspace
+
+  \item Nevins, Marybeth~Eleanor, \hyperpage{148}, \hyperpage{153}
+  \item Nichols, John~D., \hyperpage{56}
+  \item Nicklas, Dale, \hyperpage{120}
+  \item Nordhoff, Sebastian, \hyperpage{xvii}
+  \item Nyholm, Earl, \hyperpage{56}
+
+  \indexspace
+
+  \item Oirsouw, Robert~R. van, \hyperpage{370}
+  \item Oliverio, Giulia, \hyperpage{xiii}, \hyperpage{41}, 
+		\hyperpage{111}, \hyperpage{129}, \hyperpage{414}
+
+  \indexspace
+
+  \item Pancheva, Roumyana, \hyperpage{332}
+  \item Parks, Douglas~R., \hyperpage{8}, \hyperpage{14}, 
+		\hyperpage{32}, \hyperpage{65}, \hyperpage{72}, 
+		\hyperpage{134}, \hyperpage{401}, \hyperpage{404}, 
+		\hyperpage{412}, \hyperpage{418}, \hyperpage{424}
+  \item Patterson, Trudi, \hyperpage{242}
+  \item Payne, Doris~L., \hyperpage{425}
+  \item Payne, Thomas~E., \hyperpage{45--47}
+  \item Pepper, Hattie Lou, \hyperpage{121}
+  \item Pepper, Jim, \hyperpage{126}
+  \item Pepper, Ralph, \hyperpage{120, 121}, \hyperpage{124, 125}
+  \item Perley, Bernard~C., \hyperpage{148}
+  \item Perlmutter, David, \hyperpage{321}, \hyperpage{358, 359}
+  \item Pierrehumbert, Janet~B., \hyperpage{396}, \hyperpage{409, 410}
+  \item Pilling, James~Constantine, \hyperpage{107}
+  \item Platero, Paul, \hyperpage{261}
+  \item Polinsky, Maria, \hyperpage{x}
+
+  \indexspace
+
+  \item Quintero, Carolyn, \hyperpage{63}, \hyperpage{108}, 
+		\hyperpage{110}, \hyperpage{167--169}, \hyperpage{171}, 
+		\hyperpage{199}, \hyperpage{256}, \hyperpage{381}, 
+		\hyperpage{451--454}
+
+  \indexspace
+
+  \item Radin, Paul, \hyperpage{84}
+  \item Ramm, Wiebke, \hyperpage{370}
+  \item Randall, Janet, \hyperpage{320}, \hyperpage{324}
+  \item Rankin, Robert~L., \hyperpage{ix}, \hyperpage{xi--xiv}, 
+		\hyperpage{3}, \hyperpage{5--10}, \hyperpage{12}, 
+		\hyperpage{14--16}, \hyperpage{18}, \hyperpage{22--24}, 
+		\hyperpage{26--28}, \hyperpage{31--33}, 
+		\hyperpage{40, 41}, \hyperpage{44}, \hyperpage{47, 48}, 
+		\hyperpage{63--70}, \hyperpage{72--76}, 
+		\hyperpage{78--81}, \hyperpage{103}, \hyperpage{105}, 
+		\hyperpage{108}, \hyperpage{110, 111}, \hyperpage{117}, 
+		\hyperpage{119}, \hyperpage{128}, \hyperpage{134, 135}, 
+		\hyperpage{137}, \hyperpage{139}, \hyperpage{153, 154}, 
+		\hyperpage{165--169}, \hyperpage{171}, 
+		\hyperpage{184, 185}, \hyperpage{187}, \hyperpage{193}, 
+		\hyperpage{197}, \hyperpage{200, 201}, 
+		\hyperpage{203, 204}, \hyperpage{210, 211}, 
+		\hyperpage{215}, \hyperpage{217}, \hyperpage{223}, 
+		\hyperpage{233}, \hyperpage{236}, \hyperpage{238}, 
+		\hyperpage{246, 247}, \hyperpage{250, 251}, 
+		\hyperpage{255}, \hyperpage{282}, \hyperpage{381, 382}, 
+		\hyperpage{385}, \hyperpage{389}, \hyperpage{424}, 
+		\hyperpage{434}, \hyperpage{447}, \hyperpage{452}
+  \item Rappaport~Hovav, Malka, \hyperpage{290}, \hyperpage{320}, 
+		\hyperpage{322--324}, \hyperpage{326}, \hyperpage{357}
+  \item Reed, Swanton~John, \hyperpage{9}
+  \item Reuse, Willem de, \hyperpage{150}, \hyperpage{152}, 
+		\hyperpage{194}, \hyperpage{394}, \hyperpage{407, 408}
+  \item Rice, Keren, \hyperpage{233}, \hyperpage{240, 241}, 
+		\hyperpage{246--248}, \hyperpage{252}
+  \item Riggs, Mary Ann~Clark, \hyperpage{105, 106}
+  \item Riggs, Rev. Stephen~Return, \hyperpage{383}
+  \item Ringen, Catherine, \hyperpage{233}, \hyperpage{248}
+  \item Rizzi, Luigi, \hyperpage{268}
+  \item Roberts, Ian, \hyperpage{176}
+  \item Rood, David~S., \hyperpage{xiii, xiv}, \hyperpage{63, 64}, 
+		\hyperpage{105}, \hyperpage{110}, \hyperpage{190}, 
+		\hyperpage{215}, \hyperpage{231}, \hyperpage{256}, 
+		\hyperpage{372}, \hyperpage{383}, \hyperpage{424}, 
+		\hyperpage{447}, \hyperpage{450}
+  \item Rosen, Bryan, \hyperpage{xi}, \hyperpage{xiii}, \hyperpage{232}, 
+		\hyperpage{299}, \hyperpage{310}, \hyperpage{316}, 
+		\hyperpage{331}, \hyperpage{333--335}, 
+		\hyperpage{356, 357}
+  \item Ross, John~Robert, \hyperpage{356}, \hyperpage{368}
+  \item Rouveret, Alain, \hyperpage{296}
+  \item Rowe, Maude, \hyperpage{120--122}, \hyperpage{124, 125}, 
+		\hyperpage{130}
+  \item Rudes, Blair~A., \hyperpage{27, 28}, \hyperpage{33}
+  \item Rudin, Catherine, \hyperpage{xiii}, \hyperpage{252}, 
+		\hyperpage{282}, \hyperpage{311}, \hyperpage{335}, 
+		\hyperpage{365}, \hyperpage{380}, \hyperpage{393}, 
+		\hyperpage{398--400}, \hyperpage{411}
+  \item Rudin, Deniz, \hyperpage{xvii}
+  \item Rundle, Kelly, \hyperpage{147}
+  \item Rundle, Tammy, \hyperpage{147}
+
+  \indexspace
+
+  \item Safir, Kenneth, \hyperpage{265}
+  \item Sag, Ivan~A., \hyperpage{292}, \hyperpage{309}
+  \item Salmons, Joseph~C., \hyperpage{245}
+  \item Samuels, David~W., \hyperpage{148}, \hyperpage{153}
+  \item Sapir, Edward, \hyperpage{5}, \hyperpage{13}, \hyperpage{15}, 
+		\hyperpage{23}, \hyperpage{31}
+  \item Scarborough, Rebecca, \hyperpage{249, 250}
+  \item Schields, Becky, \hyperpage{335}
+  \item Schuck, Mateja, \hyperpage{xi}, \hyperpage{xiii}, 
+		\hyperpage{232}, \hyperpage{299}
+  \item Schwartz, Saul, \hyperpage{xii}, \hyperpage{117}, 
+		\hyperpage{133, 134}, \hyperpage{140}
+  \item Schweitzer, Marjorie, \hyperpage{139}, \hyperpage{183, 184}, 
+		\hyperpage{187}, \hyperpage{219}
+  \item Seiler, Hansjakob, \hyperpage{424}
+  \item Shaw, Patricia~A., \hyperpage{ix}, \hyperpage{63}, 
+		\hyperpage{237, 238}, \hyperpage{242}
+  \item Shea, Kathleen, \hyperpage{63}
+  \item Shields Sr., George, \hyperpage{72}
+  \item Short Bull, \hyperpage{418}
+  \item Simons, Gary~F., \hyperpage{134}
+  \item Small, Edward, \hyperpage{202}, \hyperpage{216}, 
+		\hyperpage{219}
+  \item Song, Hongkyu, \hyperpage{321}
+  \item Sportiche, Dominique, \hyperpage{343}
+  \item Stabler, Coolidge, \hyperpage{373}
+  \item Stanley, Lori~A., \hyperpage{145}, \hyperpage{184}
+  \item Stassen, Leon, \hyperpage{371}, \hyperpage{383}, 
+		\hyperpage{389}
+  \item Stewart, Francis, \hyperpage{403}, \hyperpage{413}
+  \item Stubbs, Addison, \hyperpage{130}
+  \item Susman, Amelia~L., \hyperpage{87, 88}, \hyperpage{92--96}, 
+		\hyperpage{99}, \hyperpage{186}, \hyperpage{314}, 
+		\hyperpage{327}
+  \item Swadesh, Morris, \hyperpage{43}, \hyperpage{51, 52}
+  \item Swanton, John~Reed, \hyperpage{9}, \hyperpage{41}, 
+		\hyperpage{43--48}, \hyperpage{50}, \hyperpage{385}, 
+		\hyperpage{416}
+  \item Szigetvári, Péter, \hyperpage{241}, \hyperpage{246}
+
+  \indexspace
+
+  \item Tadmor, Uri, \hyperpage{52, 53}
+  \item Taylor, Allan, \hyperpage{55}, \hyperpage{201}, \hyperpage{206}, 
+		\hyperpage{210}, \hyperpage{215}, \hyperpage{256}, 
+		\hyperpage{383}, \hyperpage{447}, \hyperpage{450}
+  \item Taylor, Bradley, \hyperpage{52, 53}
+  \item Test, Kelly, \hyperpage{126}
+  \item ThigréPi, \hyperpage{400}, \hyperpage{411}
+  \item Thomason, Sarah~G., \hyperpage{52}
+  \item Thompson, Sandra~A., \hyperpage{371}
+  \item Torres, Silvana~Karin, \hyperpage{269}
+  \item Trechter, Sara, \hyperpage{x}, \hyperpage{xiii}, 
+		\hyperpage{129}, \hyperpage{221}
+
+  \indexspace
+
+  \item Ullrich, Jan~F., \hyperpage{xii}, \hyperpage{xvii}, 
+		\hyperpage{32}, \hyperpage{152}, \hyperpage{193, 194}, 
+		\hyperpage{214}, \hyperpage{234}, \hyperpage{383}
+
+  \indexspace
+
+  \item Vajda, Edward~J., \hyperpage{5}, \hyperpage{7}, \hyperpage{33}
+  \item Valentine, Rand, \hyperpage{310}, \hyperpage{335}
+  \item Van~Valin Jr., Robert~D., \hyperpage{268}, \hyperpage{339--341}, 
+		\hyperpage{343}, \hyperpage{348}
+  \item Vater, Johann~S., \hyperpage{8}
+  \item Veselinova, Ljuba~N., \hyperpage{50}
+  \item Voorhis, Paul, \hyperpage{27}, \hyperpage{63}
+
+  \indexspace
+
+  \item W\"alchli, Bernhard, \hyperpage{370}
+  \item Wagner, Günter, \hyperpage{12}, \hyperpage{18}, \hyperpage{23}, 
+		\hyperpage{27}
+  \item Walker, Willard, \hyperpage{84}, \hyperpage{91}, \hyperpage{94}, 
+		\hyperpage{100}
+  \item Wallace, Karen~K., \hyperpage{403}, \hyperpage{413}, 
+		\hyperpage{418}
+  \item Ward, Gregory, \hyperpage{395}
+  \item Warner, Sam L.~No`eau, \hyperpage{154}
+  \item Washio, Ryuichi, \hyperpage{317}, \hyperpage{322}
+  \item Watanabe, Akira, \hyperpage{x}
+  \item Watkins, Laurel, \hyperpage{48, 49}
+  \item Weber, David, \hyperpage{259}
+  \item Wechsler, Stephen, \hyperpage{320}, \hyperpage{333}
+  \item Wedel, Mildred~W., \hyperpage{183, 184}, \hyperpage{187}
+  \item Weenink, David, \hyperpage{398}
+  \item Wesche, Birgit, \hyperpage{370}
+  \item West, Shannon~Louise, \hyperpage{xi}, \hyperpage{339}, 
+		\hyperpage{341}, \hyperpage{348--352}, 
+		\hyperpage{359, 360}, \hyperpage{382}
+  \item White Cloud, \hyperpage{155}
+  \item White, Sr., Felix, \hyperpage{83, 84}, \hyperpage{91}, 
+		\hyperpage{95, 96}, \hyperpage{98--100}
+  \item Whiteley, Peter, \hyperpage{148}, \hyperpage{153}
+  \item White~Eagle, Josie, \hyperpage{188}
+  \item Whitman, William, \hyperpage{184, 185}, \hyperpage{187}, 
+		\hyperpage{189--192}, \hyperpage{195}, 
+		\hyperpage{198--200}, \hyperpage{202, 203}, 
+		\hyperpage{205--207}, \hyperpage{209}
+  \item Wied-Neuwied, Maximilian Alexander~Philipp zu, \hyperpage{105}
+  \item Wilkinson, Helen, \hyperpage{400--402}
+  \item Williams, Alexander, \hyperpage{316}, \hyperpage{357}
+  \item Williamson, Janis~Shirley, \hyperpage{x}, \hyperpage{255, 256}, 
+		\hyperpage{261}, \hyperpage{263, 264}, 
+		\hyperpage{269--271}, \hyperpage{275--278}, 
+		\hyperpage{282}, \hyperpage{321}, \hyperpage{339--343}, 
+		\hyperpage{359}
+  \item Wilson, William~H., \hyperpage{154}
+  \item Winford, Donald, \hyperpage{40, 41}
+  \item Wistrand-Robinson, Lila, \hyperpage{138}, \hyperpage{189}
+  \item Wolfe, Bertha, \hyperpage{373}
+  \item Wolfe, Sr., Clifford, \hyperpage{373}, \hyperpage{397}, 
+		\hyperpage{399}, \hyperpage{411}
+  \item Wolfenbarger, Deon, \hyperpage{155}
+  \item Wolff, Hans, \hyperpage{14}
+  \item Wolvengrey, Arok, \hyperpage{394}, \hyperpage{413, 414}
+  \item Woolard, Kathryn, \hyperpage{xi}
+  \item Woolford, Ellen, \hyperpage{321}
+
+  \indexspace
+
+  \item Yellow Brow, \hyperpage{418}
+  \item Yoshida, Masaya, \hyperpage{296}
+
+  \indexspace
+
+  \item Zacharski, Ron, \hyperpage{395}
+  \item Zagona, Karen, \hyperpage{292}
+  \item Zenes, Bozena, \hyperpage{385}
+
+\end{theindex}
