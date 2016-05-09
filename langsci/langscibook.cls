@@ -19,6 +19,7 @@
 \newcommand{\lsISBNdigital}{000-0-000000-00-0}
 \newcommand{\lsISBNhardcover}{000-0-000000-00-0}
 \newcommand{\lsISBNsoftcover}{000-0-000000-00-0}
+\newcommand{\lsISBNsoftcoverus}{000-0-000000-00-0}
 \newcommand{\lsBookDOI}{??}
 \newcommand{\lsChapterDOI}{??}
 \newcommand{\lsURL}{http://langsci-press.org/catalog}
@@ -1199,6 +1200,7 @@ http://creativecommons.org/licenses/by-nd/4.0/
 ISBN: & \lsISBNdigital~(Digital) \\
       &	\lsISBNhardcover~(Hardcover)\\
       & \lsISBNsoftcover~(Softcover)\\
+      & \lsISBNsoftcoverus~(Softcover-US)\\
 \end{tabular}
 
 \IfStrEq{\lsISSN}{??}		% \IfStrEq from xstring
