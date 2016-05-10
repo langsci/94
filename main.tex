@@ -39,6 +39,7 @@
 %%%             Frontmatter                      %%%
 %%%                                              %%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{newfile}
 \begin{document}         
 %:
 \maketitle                
@@ -58,32 +59,37 @@
 %%%             Chapters                         %%%
 %%%                                              %%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  
+
+\newoutputstream{pages}
+\openoutputfile{\jobname.pgs}{pages}
+\newcommand{\writechapterpage}{\addtostream{pages}{\thepage}}
 
 
 \part{Historical linguistics and philology}   
-\include{\chapterpath/partintro-1}
-\includepaper{\chapterpath/Kasak} 
-\includepaper{\chapterpath/Kaufman}
-\includepaper{\chapterpath/Larson}
-\includepaper{\chapterpath/Danker}
-\includepaper{\chapterpath/Grant}
-\part{Applied and descriptive linguistics}
+\include{\chapterpath/partintro-1}\addtostream{pages}{\thepage}
+\includepaper{\chapterpath/Kasak} \addtostream{pages}{\thepage}
+\includepaper{\chapterpath/Kaufman}\addtostream{pages}{\thepage}
+\includepaper{\chapterpath/Larson}\addtostream{pages}{\thepage}
+\includepaper{\chapterpath/Danker}\addtostream{pages}{\thepage}
+\includepaper{\chapterpath/Grant} 
+\part{Applied and descriptive linguistics} 
 \include{\chapterpath/partintro-2}
-\includepaper{\chapterpath/Cumberland}
-\includepaper{\chapterpath/Goodtracks}
-\includepaper{\chapterpath/McBride}
+\includepaper{\chapterpath/Cumberland}\addtostream{pages}{\thepage}
+\includepaper{\chapterpath/Goodtracks}\addtostream{pages}{\thepage}
+\includepaper{\chapterpath/McBride}\addtostream{pages}{\thepage}
 \includepaper{\chapterpath/Greer}
 \part{Analyses of individual Siouan languages}
 \include{\chapterpath/partintro-3}
-\includepaper{\chapterpath/Rood}  
-\includepaper{\chapterpath/Boyle} 
-\includepaper{\chapterpath/Johnson}
-\includepaper{\chapterpath/Rosen}
+\includepaper{\chapterpath/Rood}  \addtostream{pages}{\thepage}
+\includepaper{\chapterpath/Boyle} \addtostream{pages}{\thepage}
+\includepaper{\chapterpath/Johnson}\addtostream{pages}{\thepage}
+\includepaper{\chapterpath/Rosen}\addtostream{pages}{\thepage}
 \includepaper{\chapterpath/JohnsonRosenSchuck}
 \part{Cross-Siouan studies}
 \include{\chapterpath/partintro-4}  
-\includepaper{\chapterpath/Rudin} 
-\includepaper{\chapterpath/Gordon}
+\includepaper{\chapterpath/Rudin} \addtostream{pages}{\thepage}
+\includepaper{\chapterpath/Gordon}\addtostream{pages}{\thepage}
 \includepaper{\chapterpath/Helmbrecht} 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -97,4 +103,6 @@
 {\sloppy
 \input{backmatter.tex}
 }
+
+\closeoutputstream{pages}
 \end{document} 

@@ -1062,6 +1062,7 @@ al desirabilite de un nov lingua franca: On refusa continuar payar custosi tradu
 	\node [above = 10.675mm of lspcls_bgspline.south] (lspcls_splinelogo) {\color{\lsSeriesColor}\includegraphics{\logopath/langsci_spinelogo_nocolor.pdf}};
 	\node [font=\fontsize{18pt}{14pt}\selectfont, above left = 15mm and 4mm of lspcls_splinelogo.north, rotate=270] (lspcls_splinetitle) {\color{\lsSeriesColor} \lsSpineAuthorFont{\lsSpineAuthor} \hspace{13mm} \lsSpineTitleFont{\@title}};
 	\renewcommand{\newlineCover}{\\} 
+	\renewcommand{\lastand}{\\} 
 	
 	%% Book Cover
 	
@@ -1070,7 +1071,7 @@ al desirabilite de un nov lingua franca: On refusa continuar payar custosi tradu
 	\node [execute at begin node={}, font=\fontsize{52pt}{16.75mm}\selectfont, below right = 10mm and 7.5mm of lspcls_bg1.north west, text width=140mm, align=left] (lspcls_covertitle) {\color{\lsCoverFontColour}\lsCoverTitleFont{\@title\par}}; % x = 15mm - 7.5mm ; y = 17.5mm - 7.5mm
 	
 	\ifnum\subtitleStrLen=0  % Is there a subtitle?
-	\node [font=\fontsize{25pt}{12.5mm}\selectfont, right, below = 11.2mm of lspcls_covertitle.south, text width=140mm] {\color{\lsCoverFontColour}\lsCoverAuthorFont\nohyphens{\@author\par}}; % If not, just print the author
+	\node [font=\fontsize{25pt}{12.5mm}\selectfont, right, below = 11.2mm of lspcls_covertitle.south, text width=140mm] {\color{\lsCoverFontColour}\lsEditorPrefix\lsCoverAuthorFont\nohyphens{\@author\par}}; % If not, just print the author
 	\else
 	\node [font=\fontsize{25pt}{10mm}\selectfont, right, below = 8mm of lspcls_covertitle.south, text width=140mm] (lspcls_coversubtitle) {\color{\lsCoverFontColour} \lsCoverSubTitleFont \nohyphens{\@subtitle\par}}; 
 	\node [font=\fontsize{25pt}{12.5mm}\selectfont, right, below = 11.2mm of lspcls_coversubtitle.south, text width=140mm] {\color{\lsCoverFontColour}\lsCoverAuthorFont\nohyphens{\@author\par}};
