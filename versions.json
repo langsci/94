@@ -2,7 +2,10 @@
   "versions": [{
     "versiontype": "main",
     "title": "Published version of Siouan languages",
-    "authors": [{"name": "Catherine Rudin & Bryan James Gordon"}],
+    "authors": [
+      {"name":"Catherine Rudin"},
+      {"name": "Bryan James Gordon"}
+    ],
     "publishedAt": "2016-05-18T00:00:33.000Z"
   }]
 }
