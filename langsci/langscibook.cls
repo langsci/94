@@ -722,7 +722,7 @@ al desirabilite de un nov lingua franca: On refusa continuar payar custosi tradu
 
 \newcommand{\lsCoverTitleAuthor}{
 	\renewcommand{\and}{}
-	\renewcommand{\lastand}{}
+	\renewcommand{\lastand}{\\}
 	\renewcommand{\newlineCover}{\\}
 	\renewcommand{\newlineSpine}{}
 	\lsCoverBlock
@@ -833,9 +833,9 @@ al desirabilite de un nov lingua franca: On refusa continuar payar custosi tradu
 		\thechapter\hspace{0.5em}\fi
 	\@title}
 \newcommand{\lsCollectionPaperTOC}{{%
-	\iflsCollectionChapter%
-		\protect\numberline{\thechapter}\fi
-	\@title\newline{\normalfont\@author}}}
+  \iflsCollectionChapter%
+    \protect\numberline{\thechapter}\fi
+    \@title\ \newline{\normalfont\@author}}} % space between \@title and \newline is needed for bookmarks
 % % \newcommand{\lsCollectionPaperTitle}{{%
 % % 	\renewcommand{\newlineTOC}{}
 % % 	\renewcommand{\newlineCover}{\\}
