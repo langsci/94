@@ -836,13 +836,22 @@ al desirabilite de un nov lingua franca: On refusa continuar payar custosi tradu
 	\iflsCollectionChapter%
 		\protect\numberline{\thechapter}\fi
 	\@title\newline{\normalfont\@author}}}
+% % \newcommand{\lsCollectionPaperTitle}{{%
+% % 	\renewcommand{\newlineTOC}{}
+% % 	\renewcommand{\newlineCover}{\\}
+% % 	\iflsCollectionChapter
+% % 		\vspace*{-2\baselineskip} 
+% % 		{\LARGE Chapter \thechapter}\newline\newline\fi
+% % 	\@title}}
+\newcommand{\localizedchaptestring}{Chapter}
 \newcommand{\lsCollectionPaperTitle}{{%
-	\renewcommand{\newlineTOC}{}
-	\renewcommand{\newlineCover}{\\}
-	\iflsCollectionChapter
-		\vspace*{-2\baselineskip} 
-		{\LARGE Chapter \thechapter}\newline\newline\fi
-	\@title}}
+  \renewcommand{\newlineTOC}{}
+  \renewcommand{\newlineCover}{\\}
+  \renewcommand{\chapterheadstartvskip}{}
+  \vskip-2\baselineskip
+  {\LARGE \noindent \localizedchaptestring~\thechapter}\\ %there must be a better way to undo this length than a hard value
+  \bigskip
+  \@title}}
 \newcommand{\lsCollectionPaperAuthor}{{%
 	\renewcommand{\newlineTOC}{}
 	\renewcommand{\newlineCover}{\\[0.5ex]}
@@ -1172,7 +1181,7 @@ al desirabilite de un nov lingua franca: On refusa continuar payar custosi tradu
 	\renewcommand{\newlineCover}{}
 	\renewcommand{\newlineSpine}{}
 	{\@author}\if\lsEditorSuffix\empty\else\ \lsEditorSuffix\fi. %
-	{\the\year}. %
+	{2016}. %
 	\textit{\@title}\if\@subtitle\empty\else: \textit{\@subtitle}\fi\ %
 	(\lsSeriesTitle). %
 	Berlin: Language Science Press.
@@ -1188,7 +1197,7 @@ al desirabilite de un nov lingua franca: On refusa continuar payar custosi tradu
 This title can be downloaded at:\\
 \url{\lsURL}
 
-© \the\year, \iflsCollection the authors\else\@author\fi
+© 2016, \iflsCollection the authors\else\@author\fi
 
 \newcommand{\ccby}{CC-BY} 
 \ifx\lsCopyright\ccby 
@@ -1391,7 +1400,7 @@ Storage and cataloguing done by FU Berlin \\[3ex]
 
 	%% write bib entry to file
 	%% FIXME: the publisher field needs a final period, since this is not provided by \fullciteFooter together with DOIs.
-	\immediate\write\tempfile{@incollection{#1,author={\authorTemp},title={\@title},booktitle={\lsCollectionTitle},editor={\editorTemp},publisher={Language Science Press.},Address={Berlin},year=\the\year,pages={\lsCollectionPaperFirstPage --\lsCollectionPaperLastPage},doi={\lsChapterDOI},options={skipbib=true}}}
+	\immediate\write\tempfile{@incollection{#1,author={\authorTemp},title={\@title},booktitle={\lsCollectionTitle},editor={\editorTemp},publisher={Language Science Press.},Address={Berlin},year=2016,pages={\lsCollectionPaperFirstPage --\lsCollectionPaperLastPage},doi={\lsChapterDOI},options={skipbib=true}}}
  
 	\end{refsection}
 	\end{collectionpaper}}
