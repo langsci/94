@@ -292,7 +292,7 @@
   \newcommand{\lsCoverSeriesFont}{\sffamily\fontsize{17pt}{7.5mm}\selectfont}			% fontsize?
   \newcommand{\lsCoverSeriesHistoryFont}{\sffamily\fontsize{10pt}{5mm}\selectfont}
   \newcommand{\lsInsideFont}{}	% obsolete, see \setmainfont
-  \newcommand{\lsDedicationFont}{\fontsize{15pt}{10mm}\selectfont}
+  \newcommand{\lsDedicationFont}{\fontsize{15pt}{12.5mm}\selectfont}
   \newcommand{\lsBackTitleFont}{\sffamily\addfontfeatures{Scale=MatchUppercase}\fontsize{25pt}{10mm}\selectfont}
   \newcommand{\lsBackBodyFont}{\lsInsideFont}
   \newcommand{\lsSpineAuthorFont}{\fontsize{16pt}{14pt}\selectfont}
@@ -859,7 +859,7 @@ al desirabilite de un nov lingua franca: On refusa continuar payar custosi tradu
 \newcommand{\lsCollectionPaperCitation}{\scalebox{1.2}{
 	\includegraphics{\logopath/langsci_spinelogo_nocolor.pdf}}%
 	\hspace{0.8em}%
-	\parbox[b]{.85\textwidth}{\linespread{0.8}\small\normalfont\lsCollectionPaperCitationText}}
+	\parbox[b]{.85\textwidth}{\linespread{0.8}\normalfont\scriptsize\lsCollectionPaperCitationText}}
 \newcommand{\lsCollectionPaperCitationText}{\string\lsCollectionPaperCitationText.}
 \newcommand{\lsPaper}{
 	\renewcommand{\maketitle}{
