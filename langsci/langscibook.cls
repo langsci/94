@@ -1211,8 +1211,8 @@ http://creativecommons.org/licenses/by-nd/4.0/
 \begin{tabular}{@{}l@{~}l}
 ISBN: & \lsISBNdigital~(Digital) \\
       &	\lsISBNhardcover~(Hardcover)\\
-      & \lsISBNsoftcover~(Softcover)\\
-      & \lsISBNsoftcoverus~(Softcover-US)\\
+%       & \lsISBNsoftcover~(Softcover)\\
+%       & \lsISBNsoftcoverus~(Softcover-US)\\
 \end{tabular}
 
 \IfStrEq{\lsISSN}{??}		% \IfStrEq from xstring
